@@ -1,2 +1,3 @@
-# teksty
-Teksty dostępne na stronie Aborcyjnego Dream Temu
+# Teksty na adt.pl
+
+Treści dostępne na stronie Aborcyjnego Dream Teamu.

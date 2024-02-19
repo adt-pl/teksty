@@ -1,0 +1,16 @@
+---
+title: Natalia Broniarczyk
+---
+
+# Natalia Broniarczyk
+
+Natalia Broniarczyk jest feministką od lat związaną z Porozumieniem Feministycznym 8 Marca, czyli warszawską Manifą. Od lat działa przeciwko przemocy wobec kobiet i na rzecz równości. Jedyne, czego żałuje w swoim doświadczeniu aborcji to to, że tak długo wstydziła się o nim mówić, o czym przeczytasz [w aborcyjnym coming oucie](http://codziennikfeministyczny.pl/natalia-broniarczyk-nie-przeprosze-ze-nie-zaluje/) Natalii.
+
+- Kiedyś wydawało mi się, że aborcja jest zawsze trudną decyzją, wyborem, przed którym należy ludzi chronić. Zdarzało mi się poprawiać moje koleżanki, że nie jesteśmy za aborcją, tylko za wyborem, ewentualnie za prawem do aborcji - [mówi Natalia Broniarczyk w wywiadzie dla OKO.press](https://oko.press/w-ciazy-mamy-byc-szczesliwe-po-poronieniu-smutne-po-aborcji-ma-nas-nie-byc-broniarczyk). - W 2011 roku miałam doświadczenie własnej aborcji. I swoje doświadczenie samotności - jak potrzebowałam aborcji, to wstydziłam się poprosić koleżanki o wsparcie, bo bałam się, że pomyślą o mnie źle. Dwa lata mi zajęło, żeby powiedzieć sobie samej: nie zrobiłam nic złego. Nie chcę być w ciąży - to wystarczy, by się od samej siebie odczepić.  Dziś już się nie wstydzę. Mówmy, co chcemy. Ja mówię, że aborcja dała mi wolność, skoro tak czułam.
+
+Natalia Broniarczyk w 2008 roku ukończyła pedagogikę wychowawczo-opiekuńczą, a tematem jej pracy magisterskiej były zajęcia wychowania seksualnego. Jeszcze w trakcie studiów została wolontariuszką Grupy Ponton, zajmującej się rzetelną edukacją seksualną dzieci i młodzieży. Była współautorką informatora [Nie zgadzam się na przemoc. Aktywizacja młodzieży w zakresie przeciwdziałania przemocy seksualnej i wiktymizacji](https://www.researchgate.net/publication/298353575_Nie_zgadzam_sie_na_przemoc_Aktywizacja_mlodziezy_w_zakresie_przeciwdzialania_przemocy_seksualnej_i_wiktymizacji)
+Później pracowała w Biurze Rzecznika Praw Obywatelskich [NAT UZUPEŁNIJ PLIS]. Jako doktorantka Insytytutu Stosowanych Nauk Społecznych prowadziła seminarium "Płeć i sprawiedliwość reprodukcyjna". Jest współautorką informatora "Przeciwdziałanie molestowaniu seksualnemu na uczelni". Recenzowała książki o tematyce seksualności i praw reprodukcyjnych np. [Sex by numbers](https://www.ceeol.com/search/article-detail?id=700547). Występowała na konferencjach naukowych w tej tematyce, min. w Glasgow na [„Reproductive and sexual health activism, c. 1960 – present”](http://birthcontrolcultures.uw.edu.pl/conference-in-glasgow/).
+
+Jako członkini ADT występowała m.in. na II Kongresie Praw Obywatelskich organizowanym przez Biuro Rzecznika Praw Obywatelskich, podczas Akademii Praw Człowieka pod honorowym patronatem RPO oraz Prezydenta m. st. Warszawy, na VI Kongresie Kobiet w Brukseli, w panelu "Aborcja na gwiazdkę". 
+
+To Natalia Broniarczyk z mówinicy polskiego Sejmu [opowiedziała jak zrobić aborcję tabletkami](https://www.youtube.com/watch?v=nBnfcS-U9Bc). Zrobiła to prezentując obywatelski projekt ustawy Legalna Aborcja bez Kompromisów, pod którym zebrano ponad 200 tys. podpisów.

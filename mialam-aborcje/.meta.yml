@@ -1,0 +1,4 @@
+comments: false
+postImageTypeStory: true
+search:
+  boost: 0.5

@@ -1,0 +1,39 @@
+authors:
+  adt:
+    name: ADT
+    description: Zespół Aborcyjnego Dream Teamu
+    avatar: /assets/images/adt-zespol.jpg
+    link: /o-nas/
+
+  adt-nat:
+    name: Natalia Broniarczyk
+    description: Aborcyjny Dream Team
+    avatar: /assets/images/adt-natalia-broniarczyk.jpg
+    link: /o-nas/aktywistki/natalia-broniarczyk/
+
+  adt-kinga:
+    name: Kinga Jelińska
+    description: Aborcyjny Dream Team
+    avatar: /assets/images/adt-kinga-jelinska.jpg
+    link: /o-nas/aktywistki/kinga-jelinska/
+
+  adt-justyna:
+    name: Justyna Wydrzyńska
+    description: Aborcyjny Dream Team
+    avatar: /assets/images/adt-justyna-wydrzynska.jpg
+    link: /o-nas/aktywistki/justyna-wydrzynska/
+    
+  adt-karolina:
+    name: Karolina Więckiewicz
+    description: Prawniczka ADT w latch 2016 - 2022
+    avatar: /assets/images/adt-karolina-wieckiewicz.webp
+    link: /o-nas/aktywistki/karolina-wieckiwicz/
+
+  agata-chelstowska:
+    name: dr Agata Chełstowska
+    description: Jagiellonian University, Institute of Sociology
+    avatar: /assets/images/dr-agata-chelstowska.webp
+  ana-maria-ramirez:
+    name: Ana Maria Ramirez
+    description: Ibis Reproductive Health
+    avatar: /assets/images/ana-maria-ramirez.webp

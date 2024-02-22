@@ -8,9 +8,6 @@ tags:
 
 template: page.html
 tmplOption: extra-head
-
-template: page.html
-tmplOption: extra-head
 h1: Rozmowa z partnerem
 h1Small: jak powiedzieć partnerowi o niechcianej ciąży
 tldr: >-

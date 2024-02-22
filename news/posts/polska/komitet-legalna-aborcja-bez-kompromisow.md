@@ -26,22 +26,11 @@ postImageSource: no
 
 3 lutego o godzinie 12.00 na konferencji prasowej pod sejmem odbyła się prezentacja ustawy komitetu Legalna Aborcja Bez Kompromisów. Kanałem aktualności projektu jest [facebook projektu](https://pl-pl.facebook.com/legalnaaborcjabezkompromisow/).
 
-W skład Komitetu wchodzą organizacje i ruchy kobiece: Strajk Kobiet, Aborcyjny Dream Team, Federacja na Rzecz Kobiet i Planowania Rodziny, Łódzkie Dziewuchy Dziewuchom, Wielka Koalicja za Równością i Wyborem, Centrum Praw Kobiet oraz posłanki Lewicy: Katarzyna Kotula, Wanda Nowicka, Marcelina Zawisza, Magdalena Biejat, Joanna Senyszyn, Monika Falej, Katarzyna Ueberhan.
+W skład Komitetu wchodzą organizacje i ruchy kobiece: *Strajk Kobiet, Aborcyjny Dream Team, Federacja na Rzecz Kobiet i Planowania Rodziny, Łódzkie Dziewuchy Dziewuchom, Wielka Koalicja za Równością i Wyborem, Centrum Praw Kobiet* oraz posłanki Lewicy: *Katarzyna Kotula, Wanda Nowicka, Marcelina Zawisza, Magdalena Biejat, Joanna Senyszyn, Monika Falej, Katarzyna Ueberhan*.
 
 <!-- more -->
 
-<!-- 2222: uzupełnić fotorelację -->
-
-<!--
-
-![](../assets/images/legalna-aborcja-bez-kompromisow/adt-komitet-ustawy-obywatelskiej-1.jpg){ align="left" }
-
-![](../assets/images/legalna-aborcja-bez-kompromisow/adt-komitet-ustawy-obywatelskiej-4.jpg){ align="left" }
-![](../assets/images/legalna-aborcja-bez-kompromisow/adt-komitet-ustawy-obywatelskiej-5.jpg){ align="left" }
-![](../assets/images/legalna-aborcja-bez-kompromisow/adt-komitet-ustawy-obywatelskiej-6.jpg){ align="left" }
-
 ![](../../assets/images/legalna-aborcja-bez-kompromisow/adt-komitet-ustawy-obywatelskiej-3.jpg){ alt="Ekran telefonu który streamuje live z konferencji. Na ekranie widać mikrofony mediów oraz działaczki z transparentami z nazwą komitetu. Na pierwszym planie iwdać komentarze osób ogladających - wzywają one do wprowadzenia aborcji na żądanie." }
--->
 
 <div class="grid cards dot" markdown>
 
@@ -95,6 +84,8 @@ W skład Komitetu wchodzą organizacje i ruchy kobiece: Strajk Kobiet, Aborcyjny
 
 </div>
 
+![](../../assets/images/legalna-aborcja-bez-kompromisow/adt-komitet-ustawy-obywatelskiej-4.jpg)
+
 ## Czemu potrzebujemy nowej ustawy aborcyjnej? { id="dlaczego-potrzebujemy-nowej-ustawy-aborcyjnej" }
 
 **Obecnie nawet niecały 1% osób tego potrzebujących może liczyć na przerwanie ciąży w ramach systemu ochrony zdrowia.** Tak nie powinno być. Polskie prawo nie przystaje do rzeczywistości. Ustawa, którą proponuje Komitet odwraca te proporcje. Nadal nie zapewni całkowitego dostępu do aborcji dla wszystkich osób jej potrzebujących, ale jest gwarancją minimalną, jakiej w Polsce od niemal 30 lat nie było.
@@ -108,6 +99,8 @@ Od prawie 30 lat aborcje dzieją się tylko dlatego, że osoby znajdują sposób
 Chcemy, aby osoby mogły korzystać z aborcji w systemie ochrony zdrowia, jeśli tak zdecydują, ale również żeby mogły nadal przerywać ciąże samodzielnie w domu - tak jak zaleca WHO. Chcemy, aby możliwe było wzajemne wspieranie się bez ryzyka odpowiedzialności karnej.
 
 ## Zbiórka podpisów { id="zbiorka-podpisow" }
+
+![](../../assets/images/legalna-aborcja-bez-kompromisow/adt-komitet-ustawy-obywatelskiej-1.jpg)
 
 ### 31 lipca 2021 - rusza zbiórka podpisów { id="31-07-2021" }
 
@@ -149,6 +142,7 @@ Każda osoba. Niezależnie od wieku, pochodzenia itd.
 | ---------------- | ---------------- | ---------------- |
 | <address>skrytka 67 FUP<br />ul. 11 Listopada 8<br />74-100 Gryfino</address> | <address>ul. Nowolipie 13/15<br />00-150 Warszawa</address> | <address>ul. Wiejska 16<br />00-490 Warszawa</address> |
 
+![](../../assets/images/legalna-aborcja-bez-kompromisow/adt-komitet-ustawy-obywatelskiej-6.jpg)
 
 ## Dlaczego Aborcyjny Dream Team jest częścią komitetu obywatelskiego i popiera projekt ustawy „Legalna aborcja bez kompromisów”? { id="dlaczego-popieramy" }
 
@@ -157,6 +151,8 @@ Naszym marzeniem jest brak ustaw aborcyjnych. Uważamy, że kwestia aborcji powi
 Tworzenie ustaw dedykowanych jednemu prostemu zabiegowi medycznemu wynika ze stygmy aborcyjnej i fałszywego przekonania, że aborcja jest czymś złym i *koniecznym do uregulowania* oddzielnie od innych zabiegów. Nie zgadzamy się na to bezpodstawne twierdzenie. Dla nas najlepsze prawo aborcyjne to pusta kartka. I nie zmieniamy zdania. 
 
 Jednak dołączyłyśmy do komitetu, bo mamy już dość tej fikcji, z którą mamy do czynienia obecnie. To, co proponowana ustawa zakłada to **absolutne minimum**. Nie możemy już i nie chcemy godzić się na mniej. Dość wmawiania nam, że takie przepisy to *ekstremalne* rozwiązania. 
+
+![](../../assets/images/legalna-aborcja-bez-kompromisow/adt-komitet-ustawy-obywatelskiej-5.jpg)
 
 ## Jak do projektu powinni ustosunkować się politycy? { id="odpowiedzialnosc-politykow" }
 

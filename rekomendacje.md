@@ -276,7 +276,7 @@ Zachęcamy was do zapoznania się z historiami kobiet, które [piszą o tym jak 
 
 Oto parę projektów, które zrealizowałyśmy z zewnętrznym wsparciem:
 
-<!-- 2222: uzupełnić -->
+<!-- 2222: uzupełnić granty i projekty -->
 
 ### Het Actiefonds
 

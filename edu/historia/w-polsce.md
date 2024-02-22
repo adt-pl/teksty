@@ -457,9 +457,9 @@ Przez kilka ostatnich lat udało nam się poznać imiona, a czasem i nazwiska os
 
 [:material-arrow-right: Historie ofiar zakazu aborcji](../../news/posts/historia/ofiary-zakazu-aborcji-w-pl.md)
 
-## Więcej wpisów wokół polskiej historii aborcji
+<!-- ## Więcej wpisów wokół polskiej historii aborcji -->
 
-[TAGS]
+<!-- material/tags -->
 
 [^1]: [Prawo o aborcji w opinii społeczeństwa](https://www.cbos.pl/SPISKOM.POL/1991/K_035_91.PDF), CBOS, marzec 1991 rok
 [^2]: tzw. [Federa](https://federa.org.pl/) działa po dzień dzisiejszy 

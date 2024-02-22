@@ -156,9 +156,9 @@ Zobacz też:
 * Siostrzy Ronie: [O poronieniu - dla dziewczyn, bliskich i każdego, komu ten temat nie jest obojętny](https://siostryronie.pl/wp-content/themes/siostry-ronie-2.5.0/assets/files/krotka-instrukcja-o-poronieniu.pdf)
 * Siostry Ronie: [Raport z badania doświadczeń i potrzeb osób roniących w Polsce](https://siostryronie.pl/wp-content/themes/siostry-ronie-2.5.0/assets/files/raport.pdf)
 
-## Więcej teksótów związanych z poronieniem
+<!-- ## Więcej tekstów związanych z poronieniem -->
 
-[TAGS]
+<!-- material/tags -->
 
 [^1]: Magdalena Napiórkowska-Orkisz, Jolanta Olszewska, [Rola Personelu Medycznego we Wsparciu Psychicznym Kobiety I Jej Rodziny po Przebytym Poronieniu](http://www.pielegniarstwo.ump.edu.pl/uploads/2017/3/529_3_65_2017.pdf), DOI: https://doi.org/10.20883/pielpol.2017.72
 [^2]: za [Joanna van Kleef](https://www.polozna.nl/cia%C5%BCa/informacje-o-poronieniu/)

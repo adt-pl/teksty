@@ -201,6 +201,6 @@ To nasze życia, nasze doświadczenia, nasze decyzje o naszym ciele. **Dostępno
 
 Nie pozwólmy, by większość decydowała o tym, czy Ty – albo ja – albo którakolwiek inna osoba mogła przerwać ciąże. Te decyzje należą do nas i **zawsze będą nasze.** Aborcje nie są kleru, nie są sejmu, nie są Kai Godek, Ordo Iuris, Fundacji Pro czy Trybunału Konstytucyjnego.
 
-## Więcej o ideii referendum aborcyjnego
+<!-- ## Więcej o ideii referendum aborcyjnego -->
 
-[TAGS]
+<!-- material/tags -->

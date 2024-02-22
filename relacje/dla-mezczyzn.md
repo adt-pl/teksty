@@ -102,9 +102,9 @@ Jeśli jesteś ciekawy opinii swoich kolegów obejrzyj go na YouTube:
 
 
 
-## Więcej "męskich" materiałów
+<!-- ## Więcej "męskich" materiałów -->
 
-[TAGS]
+<!-- material/tags -->
 
 [^1]: **Zaznaczamy:** przepisy prawa nie zawsze są jednoznaczne i często podlegają dość swobodnej interpretacji. Tak jest też z karalnym *"udzieleniem pomocy w przerwaniu ciąży wbrew przepisom ustawy"*. Prawnicy (zarówno pro-kobiecy jak i anty-kobiecy) spierają się co mieści się w pojęciu *"udzielenia pomocy"*, a co nie.
 **Przedmiot sporu:**

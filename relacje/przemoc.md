@@ -274,9 +274,9 @@ Zaoferuj swoją pomoc w codziennych sprawach, takich jak opieka nad dziećmi, zn
 
 </section>
 
-## Więcej materiałów o przemocy
+<!-- ## Więcej materiałów o przemocy -->
 
-[TAGS]
+<!-- material/tags -->
 
 
 [^1]: Patrycja Wieczorkiewicz, Joanna Gzyra, [Dlaczego nie odeszła wcześniej...?](../do-pobrania/index.md/#zin-cpk-dlaczego-nie-odeszla-wczesniej). Fundacja Centrum Praw Kobiet, Aborcyjny Dream Team, Oficyna Balas Czerni, Warszawa 2022

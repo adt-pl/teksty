@@ -197,9 +197,9 @@ Innym rodzajem zagrożenia są nieuczciwi handlarze. Decyzja skąd zamawiasz tab
 
 ## Ostatnio omawiane { id="ostatnie-teksty" }
 
-Więcej o oszustach, naciągaczach i działaniach anty-aborcyjnych organizacji dowiesz się z aktualności:
+Więcej o oszustach, naciągaczach i działaniach anty-aborcyjnych organizacji dowiesz się z aktualności.
 
-[TAGS]
+<!-- material/tags -->
 
 ## Komu można zaufać? { id="komu-zaufac" }
 

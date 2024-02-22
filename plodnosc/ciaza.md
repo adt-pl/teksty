@@ -46,6 +46,6 @@ Oczywiście, że tak - jeśli tego chcesz możesz przerwać ciąże. Jest to mo�
 
 Ciąża jest wyborem. Mamy oczywiście prawo być przerażone jej wizją, ale w byciu w ciąży też nie ma nic złego. Ani w jej przerwaniu. Ciąża nie jest bowiem boską karą za seks. Jest zwyczajnym procesem biologicznym, o którym powinnyśmy móc samodzielnie zdecydować.
 
-## Więcej na temat ciąży
+<!-- ## Więcej na temat ciąży -->
 
-[TAGS]
+<!-- material/tags -->

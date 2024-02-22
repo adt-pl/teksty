@@ -26,6 +26,6 @@ Działalność prawniczek w ramach kolektywu to przede wszystkim udostępnianie 
 
 [:octicons-link-external-16:{ .middle } prawniczkiproabo.pl](http://www.prawniczkiproabo.pl/)
 
-## Więcej o prawniczkach pro-abo
+<!-- ## Więcej o prawniczkach pro-abo -->
 
-[TAGS]
+<!-- material/tags -->

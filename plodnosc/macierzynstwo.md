@@ -93,9 +93,9 @@ Tyle w temacie.
 
 > Rodzicielstwo jest wyborem, którego każda osoba powinna dokonać samodzielnie, zgodnie ze swoimi potrzebami i możliwościami. Wszystkim rodzicom świadomie wychowującym dzieci - ogromne *chapeau bas*. Wszystkim osobom niewychowującym dzieci - także.
 
-## Więcej materiałów o macierzyństwie
+<!-- ## Więcej materiałów o macierzyństwie -->
 
-[TAGS]
+<!-- material/tags -->
 
 [^1]: za: Kortsmit K, Mandel MG, Reeves JA, et al. [Abortion Surveillance — United States, 2019](https://www.cdc.gov/mmwr/volumes/70/ss/ss7009a1.htm#T8_down). MMWR Surveill Summ 2021;70 (No. SS-9):1–29. DOI: http://dx.doi.org/10.15585/mmwr.ss7009a1
 [^2]: za: [What the data says about abortion in the U.S.](https://www.pewresearch.org/fact-tank/2023/01/11/what-the-data-says-about-abortion-in-the-u-s-2/), w wolnym tłumaczeniu z języka angielskiego: *The same people who become pregnant and give birth are the same people who have abortions at different points in their lives. [...] One of the main reasons people report wanting to have an abortion is so they can be a better parent to the kids they already have."*

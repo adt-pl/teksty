@@ -84,8 +84,8 @@ Oraz o wielu innych istotnych dla zdrowia reprodukcyjnego tematach.
 
 [:fontawesome-solid-file-pdf: Pobierz pdf](../do-pobrania/zin/V1-samopomoc-diy.pdf){ .md-button }
 
-## Więcej materiałów o antykoncepcji i tabletkach dzień po
+<!-- ## Więcej materiałów o antykoncepcji i tabletkach dzień po -->
 
-[TAGS]
+<!-- material/tags -->
 
 [^1]: Publikacja powstała przy wsparciu [Het Actiefonds](https://hetactiefonds.nl/) oraz [Urgent Action Fund](https://urgentactionfund.org/).

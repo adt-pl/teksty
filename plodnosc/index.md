@@ -77,6 +77,6 @@ postImageSource: no
 
 </div>
 
-## Więcej materiałów o płodności
+<!-- ## Więcej materiałów o płodności -->
 
-[TAGS]
+<!-- material/tags -->

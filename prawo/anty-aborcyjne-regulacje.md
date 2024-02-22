@@ -206,6 +206,6 @@ Prawo aborcyjne tak naprawdę powinno być zniesione. Jedynym kompromisem, na kt
 
 Gdy następnym razem polityczy i polityczni zaczną proponować kolejne projekty ustaw, miejcie to w pamięci.
 
-## Więcej o anty-aborcyjnych regulacjach
+<!-- ## Więcej o anty-aborcyjnych regulacjach -->
 
-[TAGS]
+<!-- material/tags -->

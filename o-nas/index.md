@@ -79,6 +79,6 @@ Działają z nami dziesiątki aktywistek feministycznych z całej Polski. Opowie
 
 Więcej o pracy proaborcyjnych działaczek przeczytasz w [aktualnościach](../news/kategoria/organizacje-aborcyjne.md).
 
-## Więcej o naszych działaniach
+<!-- ## Więcej o naszych działaniach -->
 
-[TAGS]
+<!-- material/tags -->

@@ -32,6 +32,6 @@ Na swoim profilu mają również udostępnione linki do wiarygodnych źródeł n
     
 [:octicons-link-external-16:{ .middle } @lekarkiproabo](https://www.instagram.com/lekarkiproabo/)   
 
-## Więcej o proaborcyjnych lekarkach
+<!-- ## Więcej o proaborcyjnych lekarkach -->
 
-[TAGS]
+<!-- material/tags -->

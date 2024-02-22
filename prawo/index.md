@@ -81,8 +81,8 @@ Dla osób chcących wgłębić się w stan prawny aborcji mamy na ten temat [roz
 
 </div>
 
-## Więcej wpisów o prawie aborcyjnym
+<!-- ## Więcej wpisów o prawie aborcyjnym -->
 
-[TAGS]
+<!-- material/tags -->
 
 [^1]: O ile za kupno tabletek aborcyjnych z niepewnych źródeł nie grozi ci żadna odpowiedzialność karna, to z kupnem tabletek od handlarzy czasem wiążą się inne zagrożenia m.in. to, że możesz zostać wezwana w charakterze świadka na przesłuchanie jeśli taki sprzedawcza *"wpadnie"*. Na tobie nie ciąży jednak żadna odpowiedzialność. Policja będzie próbowała jedynie wyciągnąć od ciebie zeznania obciążające handlarza.

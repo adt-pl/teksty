@@ -81,6 +81,6 @@ Społeczną edukację wokół aborcji podzieliłyśmy na następujące tematy:
 
 </div>
 
-## Więcej wpisów o edukacji aborcyjnej
+<!-- ## Więcej wpisów o edukacji aborcyjnej -->
 
-[TAGS]
+<!-- material/tags -->

@@ -83,6 +83,6 @@ Zdajemy sobie sprawę, że rozmowy o aborcji mogą być niezwykle trudne. Jednak
 
 </div>
 
-## Więcej materiałów o relacjach
+<!-- ## Więcej materiałów o relacjach -->
 
-[TAGS]
+<!-- material/tags -->

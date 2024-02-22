@@ -382,6 +382,6 @@ W ostatnich latach zarówno ADT jako organizacja, jak i nasze działaczki otrzym
 
 </div>
 
-## Jest tego więcej!
+<!-- ## Jest tego więcej! -->
 
-[TAGS]
+<!-- material/tags -->

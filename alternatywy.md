@@ -247,6 +247,6 @@ postImageSource: no
 
 </div>
 
-## Więcej o organizacjach feministycznych i proaborcjnych
+<!-- ## Więcej o organizacjach feministycznych i proaborcjnych -->
 
-[TAGS]
+<!-- material/tags -->

@@ -14,11 +14,11 @@ postImageAlt: Kinga Jelińska przemawia na międzyanorodowej konferencji aborcyj
 postImageSource: no
 ---
 
-# Międzynarodowa konferencja ekspertów aborcyjnych
+# Międzynarodowa konferencja ekspertek aborcyjnych
 
 Działaczki sieci Aborcja Bez Granic od paru dni biorą udział w konferencji aborcjonistek, lekarzy i ekspertek w zakresie przerywania ciąży z całego świata. Konferencja ma miejsce w Bangkoku - stolicy gorącej Tajlandii. 
 
-Chcemy podzielić się z wami wystąpieniem Kingi Jelińskiej - szefowej Women Help Women pt. *Wszystkie oczy zwrócone na samodzielnie zarządzaną aborcję – jak polityka kontroli może wpłynąć na tę (radykalną) praktykę* (eng. *All Eyes On Self-Managed Abortion – How The Politics Of Control Can Affect This (Radical) Practice*).
+Chcemy podzielić się z wami wystąpieniem Kingi Jelińskiej - szefowej Women Help Women pt. *Wszystkie oczy zwrócone na samoobsługę aborcyjną – jak polityka kontroli może wpłynąć na tę (radykalną) praktykę* (eng. *All Eyes On Self-Managed Abortion – How The Politics Of Control Can Affect This (Radical) Practice*).
 
 <!-- more -->
 
@@ -134,7 +134,7 @@ Pracujemy w oparciu o inny zbiór wartości i zasad. W tej chwili zapewnienie do
 
 Jestem nastawiona krytycznie do prób kontrolowania samoobsługi aborcyjnej. Ale nie przyszłam tu tylko po to by narzekać.
 
-Naszą odpowiedzią na kontrolę jest radykalna, nieokiełznana praktyka samoobsługi aborcyjnej – robimy aborcje i wspieramy osoby, które mają aborcje. Powiedzieć wam sekret? **Nie istnieje idealny porządek aborcyjny – jest on jedynie sumą aborcyjnych chaosów.**
+Naszą odpowiedzią na kontrolę jest radykalna, nieokiełznana praktyka samoobsługi aborcyjnej – robimy aborcje i wspieramy osoby, które mają aborcje. Powiedzieć wam sekret? **Istnieje idealny porządek aborcyjny – jest on sumą aborcyjnych chaosów.**
 
 ### Aborcyjny apel
 

@@ -41,7 +41,8 @@ Tak długo, jak dyskusja o aborcji będzie skupiona na ograniczaniu jej do minim
 ## Kto jest autorem rekomendacji?
 
 PTGiP – jako zbiór autorów „rekomendacji” – cieszy się wśród polskich lekarzy bezpodstawnym autorytetem. Organizacja, której wytyczne aborcyjne są sprzeczne z wytycznymi WHO i FIGO nie powinna być stawiana w roli ekspertów. Wręcz przeciwnie – traktowana być powinna jako zagrożenie dla bezpiecznego przerywania ciąży w Polsce.
-I chociaż Ministrze Zdrowia udało się uniknąć publikacji wytycznych zespołu „specjalistów” byłego MZ Niedzielskiego (ekonomisty, powołanego przez PiS i Łukasza Szumowskiego), to konserwatywni i niedouczeni lekarze robią wszystko, by rzucić kłody pod nogi pozytywnie nastawionym do aborcji (i do jej dekryminalizacji!) nowym politykom. 
+
+I chociaż nowej Ministrze Zdrowia udało się uniknąć publikacji wytycznych zespołu *"specjalistów"* byłego MZ Adama Niedzielskiego (ekonomisty powołanego przez Łukasza Szumowskiego na prezesa NFZ, a od 2020 do 2023 roku Minister Zdrowia powołany przez Mateusza Morawieckiego i Andrzeja Dudę), to konserwatywni i niedouczeni lekarze robią wszystko, by rzucić kłody pod nogi pozytywnie nastawionym do aborcji (i do jej dekryminalizacji!) nowym politykom. 
 
 ## Skąd gorączkowe publikacje fatalnych „rekomendacji”?
 

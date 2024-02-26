@@ -160,6 +160,16 @@ Jeśli wolisz wykonać wpłatę własnoręcznie, poniżej znajdziesz wszystkie p
 
 </div>
 
+### Przekaż nam 1.5%
+
+Jako, że za rogiem mamy sezon na wypełnianie zeznań podatkowych, przypominamy, że swoje 1,5% podatku możecie przekazać na bezpieczne aborcje!
+
+> KRS: **0000507234**
+
+
+> Cel: **37077**
+
+
 ## Czemu warto nas wspierać?
 
 * Jesteśmy częścią największej europejskiej sieci organizacji aborcyjnych - Aborcji Bez Granic

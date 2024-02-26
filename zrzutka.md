@@ -112,7 +112,7 @@ Jedną z form wsparcia naszego działania jest pomoc finansowa. Zachęcamy Cię 
         }
     </style>
 
-    <script async src="/javascripts/stripe.js"></script>
+    <script async src="/assets/javascripts/stripe.js"></script>
 
     <stripe-buy-button
         buy-button-id="buy_btn_1NQfj6HM55MwVt573LzVoMFn" publishable-key="pk_live_51KhLpCHM55MwVt57yaeTJVUVCbPGVV5ZwbnbjuXfQoCWUucqynMp9OyGqL0U7k4ZpV6HmxYktwQ7BPxfcvK9QZvx00fc1DDmbM" 

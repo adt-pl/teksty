@@ -62,7 +62,7 @@ Dokument skupia się na tzw. „aborcjach ustawowych”, które – według stat
 Rekomendacje lekarskie skupiać powinny się na aktualnej wiedzy medycznej. PTGiP wydało jednak zestaw wytycznych składający się w dużej mierze z analizy stanu polskiego prawa. Lekarz wykonujący aborcję zobowiązany jest przede wszystkim do działania na rzecz bezpieczeństwa i zdrowia swojej pacjentki, zamiast wcielać się w rolę polityka, prokuratora czy teoretyka prawa. To właśnie wiedzy medycznej – a nie prawnej – oczekują od lekarzy pacjentki.
 Wiedza medyczna w przypadku „rekomendacji” PTGiP również pozostawia wiele do życzenia, ale najpierw zadajmy sobie pytanie jak to jest możliwe, że aborcyjne wytyczne dotyczą tylko 0,3% aborcji.
 
-Rekomendacje nie odpowiadają na nasze rzeczywiste potrzeby, tylko obracają się w przestrzeni fikcji prawnej. Tak zwane „aborcje ustawowe” obejmują w tym momencie tylko nieliczne „przewidziane przez ustawę” przypadki. Dla porównania: rekomendacje WHO wydane w roku 2022 obejmują również aborcje domowe, które z perspektywy PTGiP w ogóle nie istnieją. Nieuwzględnienie w rekomendacjach dotyczących przerywania ciąży 99,7% polskich aborcji jest świadectwem braku kompetencji w tymże zakresie.
+Rekomendacje nie odpowiadają na nasze rzeczywiste potrzeby, tylko obracają się w przestrzeni fikcji prawnej. Tak zwane „aborcje ustawowe” obejmują w tym momencie tylko nieliczne „przewidziane przez ustawę” przypadki. Dla porównania: rekomendacje WHO wydane w roku 2022 obejmują również aborcje domowe, które z perspektywy PTGiP w ogóle nie istnieją (a aborcja farmakologiczna w rekomendacjach WHO istnieje od ponad 10 lat...).  Nieuwzględnienie w rekomendacjach dotyczących przerywania ciąży 99,7% polskich aborcji jest świadectwem braku kompetencji w tymże zakresie.
 
 ### Przestarzałe metody aborcyjne
 
@@ -87,7 +87,7 @@ Chociaż w „rekomendacjach” pojawia się informacja o możliwości przerwani
 
 ### Drugi trymestr
 
-W wypadku „małej efektywności” metody farmakologicznej (co również nie jest wyjaśnione i stanowi pole do nadużyć), PTGiP stawia niepokojący nacisk na wywołanie porodu z użyciem cewnika Foley’a, który – podobnie jak łyżeczkowanie – jest uznawany za metodę przestarzałą (i szczególnie niebezpieczną w przypadku położenia bocznego i skośnego płodu, o czym rekomendacje nawet nie wspominają).
+W wypadku „małej efektywności” metody farmakologicznej (co również nie jest wyjaśnione i stanowi pole do nadużyć), PTGiP stawia niepokojący nacisk na wywołanie porodu z użyciem cewnika Foley’a, który – podobnie jak łyżeczkowanie – jest uznawany za metodę przestarzałą i szczególnie niebezpieczną.
 
 Jak wygląda takie wywołanie porodu? Pacjentka godzinami rodzi martwy płód. Ta długa i ciężka procedura czasem odbywa się, gdy kobieta jest w ciąży chcianej, wyczekiwanej, ale ze stwierdzonymi wadami płodu, bądź zagrożeniem zdrowia. Jest to zupełnie niepotrzebny ból i trud w sytuacji, w której istnieją metody o wiele mniej inwazyjne i potencjalnie traumatyzujące.
 
@@ -97,7 +97,7 @@ Metoda chirurgiczna, o której nie dowiemy się z rekomendacji PTGiP, wykonywana
 
 Mając tę świadomość i wiedząc, że wywoływanie porodu może trwać od kilku do kilkunastu godzin (a w niektórych przypadkach może wydłużyć się do kilkudziesięciu) jest to czyste okrucieństwo. 
 
-Co więcej, po wylistowaniu wszystkich jakże zawodnych archaicznych metod, PTGiP polskim lekarzom, zaleca *w krańcowych przypadkach* wykonanie cesarki (histerotomii), której inwazyjność – w porównaniu do nowoczesnych, szybkich i przede wszystkim bezpiecznych metod – jest ogromna.
+Co więcej, po wylistowaniu wszystkich jakże zawodnych archaicznych metod, PTGiP polskim lekarzom, zaleca *w krańcowych przypadkach* wykonanie cesarki (histerotomii), która po pierwsze **nie jest metodą aborcyjną**, a po drugie – w porównaniu do nowoczesnych, szybkich i przede wszystkim bezpiecznych metod – jest ogromnie inwazyjna.
 
 #### Higiena poaborcyjna
 
@@ -109,7 +109,7 @@ W rzeczywistości rekomendacje powinny w pierwszej kolejności promować wspomag
 
 #### Czemu lekarzom rekomenduje się fatalne metody?
 
-Polscy lekarze od ponad 30 lat unikają kształcenia się w dziedzinie bezpiecznych, współczesnych metod aborcyjnych. Stan wiedzy *naszych* lekarzy na temat aborcji jest zatrważający. 
+Polscy lekarze od ponad 30 lat unikają kształcenia się w dziedzinie bezpiecznych, współczesnych metod aborcyjnych. Stan wiedzy *naszych* lekarzy na temat aborcji jest zatrważający. Niestety ginekolodzy w Polsce oprócz łyżeczkowania i cesarskiego cięcia niewiele potrafią - jednak zamiast rekomendować im nowoczense metody i wyznaczać dobre standardy, PTGiP zaniża swoje standardy do typowego lekarza-nieuka.
 
 Doskonale widać to nie tylko na przykładzie powyższych „rekomendacji”. Dowodem na lekarską niekompetencję są również kolejne historie umierających w polskich szpitalach pacjentek i dane o zwiększającym się odsetku polek w zagranicznych klinikach aborcyjnych, które trafiają do nich w ciężkim stanie, ponieważ w Polsce nie zapewniono im należytej opieki.
 
@@ -145,7 +145,7 @@ Rekomendacje PTGiP są o dziwo jeszcze bardziej antyaborcyjne niż obecny, i tak
 
 Aborcje w szpitalu, teoretycznie, można robić też bez konsylium i tysiąca papierów. Lekarz już teraz (i nie ograniczają tego nawet obecne antyaborcyjne przepisy!) ma możliwość podjąć decyzję, że sam wykona zabieg o który jest proszony.
 
-Może to zrobić de facto również w każdej sytuacji, jeśli uzna, że ciąża zagraża życiu kobiety. W takim rozpoznaniu lekarz nie musi być sam – stanąć za nim może również jego placówka i jej szczegółowe wytyczne.
+Może to zrobić de facto również w każdej sytuacji, jeśli uzna, że ciąża zagraża zdrowiu kobiety. W takim rozpoznaniu lekarz nie musi być sam – stanąć za nim może również jego placówka i jej szczegółowe wytyczne.
 
 Skąd więc nacisk na gromadzenie jak największej ilości papierów i skierowań? Ponieważ lekarze boją się konsekwencji prawnych – jednak zupełnie bezpodstawnie. W Polsce nie było jeszcze sytuacji, w której lekarz zostałby skazany za przeprowadzenie aborcji w szpitalu.
 

@@ -1,8 +1,10 @@
 ---
-date: 2024-03-04
+date: 2024-02-29
 categories:
   - Organizacje aborcyjne
   - Polityka
+authors:
+  - adt
 tags:
   - Aborcyjny Dream Team
   - Izabela Leszczyna
@@ -41,7 +43,7 @@ Wraz z brakiem art. 152 zniknąłby zapis kryminalizujący *pomocnictwo*. To ozn
 
 I chociaż w polskiej historii żaden jeszcze lekarz nie został skazany za wykonanie aborcji w szpitalu, to jednak lekarskiej fantazji o byciu represjonowanym ten fakt nie przeszkadza. Tym bardziej mamy nadzieję, że dekryminalizacja odbierze wymówkę/argument o *strachu przed prokuratorem*.
 
-Dekryminalizacja oznaczałaby również normalizowanie zabiegu i obalenie licznych, [krążących po środowisku lekarskim mitów](2222 9 kłamstw) okołoaborcyjnych. Dzięki temu lekarze może w końcu zaczęliby kształcić się w kierunku współczesnych metod aborcyjnych, które w innych krajach europejskich już od dawna uznawane są za standard. Przy takim założeniu otwiera się także możliwość komfortowego skonsultowania swoich potencjalnych obaw z lekarzem. Także zwykła kontrola u ginekologa będzie mogła w końcu odbyć się zupełnie bez strachu o to, że niedokształcony i „w gorącej wodzie kąpany” lekarz zamiast skupić się na swojej pracy, będzie kierował się fikcyjną obawą przed „współsprawstwem”, czy – co gorsza – postanowi sprawę zgłosić (uspokajamy: tego typu „donosy” od zawsze są bezpodstawne i nieskuteczne, gdyż **każda z nas ma prawo przerwać swoją ciążę bez żadnych konsekwencji prawnych**).
+Dekryminalizacja oznaczałaby również normalizowanie zabiegu i obalenie licznych, [krążących po środowisku lekarskim mitów](./../mity/9-klamstw-o-aborcji-ktore-uslyszysz-od-lekarza.md) okołoaborcyjnych. Dzięki temu lekarze może w końcu zaczęliby kształcić się w kierunku współczesnych metod aborcyjnych, które w innych krajach europejskich już od dawna uznawane są za standard. Przy takim założeniu otwiera się także możliwość komfortowego skonsultowania swoich potencjalnych obaw z lekarzem. Także zwykła kontrola u ginekologa będzie mogła w końcu odbyć się zupełnie bez strachu o to, że niedokształcony i „w gorącej wodzie kąpany” lekarz zamiast skupić się na swojej pracy, będzie kierował się fikcyjną obawą przed „współsprawstwem”, czy – co gorsza – postanowi sprawę zgłosić (uspokajamy: tego typu „donosy” od zawsze są bezpodstawne i nieskuteczne, gdyż **każda z nas ma prawo przerwać swoją ciążę bez żadnych konsekwencji prawnych**).
 
 ## 31 stycznia MZ Izabela Leszczyna prezentuje „pakiet bezpieczeństwa na temat zdrowia kobiet”
 

@@ -81,7 +81,7 @@ Czas na zmiany.
 
 Prócz powyższych deklaracji, 23 lutego Ministerstwo Zdrowia opublikowało następujący wpis na twitterze:
 
-![Wpis MZ](./../../assets/images/tweet-mz.webp){ align=left alt="Ministerstwo Zdrowia informuje, że lekarze, którzy narażali zdrowie i życie kobiet, odmawiając terminacji ciąży zgodnej z polskim prawem, nie zostaną powołani na konsultantów krajowych i wojewódzkich." }
+![Wpis MZ](./../../assets/images/tweet-mz.webp){ alt="Ministerstwo Zdrowia informuje, że lekarze, którzy narażali zdrowie i życie kobiet, odmawiając terminacji ciąży zgodnej z polskim prawem, nie zostaną powołani na konsultantów krajowych i wojewódzkich." }
 
 Czyli w końcu doczekałyśmy się jakiejś – może nieszczególnie radykalnej, ale *jakiejś* – formy konsekwencji dla polskich lekarzy unikających aborcji jak tylko się da.
 

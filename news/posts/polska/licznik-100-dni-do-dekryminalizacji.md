@@ -46,6 +46,10 @@ postImageSource: no
   }
 }
 
+#odliczanie.expired {
+  grid-template-columns: repeat(1, minmax(100%, 1fr));
+}
+
 #odliczanie > ul > li {
   font-size: 2.5em;
 }
@@ -80,7 +84,8 @@ var x = setInterval(function() {
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("odliczanie").innerHTML = "EXPIRED";
+    document.getElementById("odliczanie").innerHTML = "<ul><li>0 dni. <span>Mięło ponad 100 dni, a nowy rząd robi wszystko, by temat aborcji zamieść pod dywan...</span></li></ul>";
+    document.getElementById("odliczanie").classList.add("expired");
   }
 }, 1000);
 </script>

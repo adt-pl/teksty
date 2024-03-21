@@ -9,9 +9,12 @@ hide:
 template: page.html
 tmplOption: extra-head
 h1: Materiały od pobrania
-h1Small: ziny, grafiki, wzory wlep i inne przydatne pliki
+h1Small: ziny, dokumenty, grafiki, plakaty, wzory wlep itp.
 tldr: >-
-    Ziny? Ulotki edukacyjne o aborcji? Grafiki do druku na plakaty i wlepy? A może ilustracje do postów? Wszystko znajdziesz tutaj!
+    Szukasz ciekawych zinów dla siebie i znajomych? A może potrzebujesz ulotki edukacyjnej o aborcji? Chcesz opublikować posty grafikami promującymi aborcję, wydrukować piękne plakaty albo czadowe wlepy?
+    </p>
+    <p>
+    Na tej stronie zbieramy wszystkie materiały które możesz chcieć wydrukować albo w inny sposób podzielić się nimi ze światem.
 postImage: yes
 postImagePath: /do-pobrania/images/ola-jasionowska.jpg
 postImageTitle: Materiały aborcyjne do pobrania
@@ -23,6 +26,14 @@ postImageSourceText: art. Ola Jasionowska
 ## Ziny i publikacje { id="ziny-i-publikacje" }
 
 <div class="cards grid masonry" markdown>
+
+-   ### Wytyczne: rekomendacje aborcyjne PTZSiR { id="rekomendacje-ptzsir" }
+    
+    **Dokument Polskiego Towarzystwa Zdrowia Seksualnego i Reprodukcyjnego w fachowy i wyczerpujący sposób opisuje praktyki aborcyjne nie tylko ze strony medycznej, ale również w kontekście prawnym i systemowym.** Zespół autorski wyraźnie podkreśla konieczność dekryminalizacji aborcji i innych zmian systemowych potrzebnych do zapewnienia Polkom dostępu do bezpiecznej opieki okołoaborcyjnej.
+
+    Rekomendacje są efektem wielomiesięcznej współpracy ekspertek, ekspertów, lekarzy, prawniczek i działaczek organizacji pro-kobiecych.
+
+    [:fontawesome-solid-file-pdf: Pobierz PDF <small>jednostronnicowy skrót</small>](https://ptzsr.org.pl/wp-content/uploads/2024/03/Rekomendacje-w-zakresie-aborcji-PTZSR-2024_Opis-skrocony.pdf){.md-button} [:fontawesome-solid-file-pdf: Pobierz PDF <small>pełna wersja wytycznych</small>](https://ptzsr.org.pl/wp-content/uploads/2024/03/Rekomendacje-w-zakresie-aborcji-PTZSR-2024_WYDANIE-1.pdf){.md-button}
 
 -   ### Zin: Potrzebujesz aborcji? Nie jesteś sama! { id="zin-potrzebujesz-aborcji-nie-jestes-sama" }
 
@@ -40,13 +51,11 @@ postImageSourceText: art. Ola Jasionowska
 
 -   ### Zin: Aborcja bez barier { id="zin-aborcja-bez-barier" }
 
-    Z inicjatywy „Pełnoprawnej” czyli Katarzyny Bierzanowskiej oraz Agnieszki Wołowicz i Magdaleny Kocejko powstał ważny raport o dostępności aborcji dla kobiet z niepełnosprawnościami.
+    Z inicjatywy „Pełnoprawnej” czyli Katarzyny Bierzanowskiej oraz Agnieszki Wołowicz i Magdaleny Kocejko powstał ważny ==raport o dostępności aborcji dla kobiet z niepełnosprawnościami==.
 
     Motywacją do badań i powstania raportu był brak głosu kobiet z niepełnosprawnościami w debacie nad prawem do bezpiecznej i legalnej aborcji w Polsce.
 
-    [:fontawesome-solid-file-pdf: Pobierz PDF](./zin/V1-aborcja-bez-barier.pdf){.md-button}
-
-    [:fontawesome-solid-file-pdf: Pobierz PDF (tekst łatwy do czytania)](./zin/V1-aborcja-bez-barier-tekst-latwy-do-czytania.pdf){.md-button}
+    [:fontawesome-solid-file-pdf: Pobierz PDF](./zin/V1-aborcja-bez-barier.pdf){.md-button} [:fontawesome-solid-file-pdf: Pobierz PDF <small>tekst łatwy do czytania</small>](./zin/V1-aborcja-bez-barier-tekst-latwy-do-czytania.pdf){.md-button}
 
 -   ### Zin: Samopomoc i DIY { id="zin-samopomoc-DIY" }
 

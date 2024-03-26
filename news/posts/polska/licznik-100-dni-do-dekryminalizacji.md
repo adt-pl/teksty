@@ -29,66 +29,11 @@ postImageSource: no
 
 ## 100 dni na dekryminalizację
 
-### Nowemu rządowi zostało
+Nowemu rządowi zostało:
 
-<div class="grid cards" id="odliczanie"></div>
+!!! danger "0 dni."
+    Mięło ponad 100 dni, a nowy rząd robi wszystko, by temat aborcji zamieść pod dywan...
 
-<style>
-#odliczanie {
-  grid-template-columns: repeat(4, minmax(20%, 1fr));
-  font-weight: bold;
-  min-height: 130px;
-}
-@media screen and (max-width:44.984375em){
-  #odliczanie {
-    grid-template-columns: repeat(2, minmax(20%, 1fr));
-    font-weight: bold;
-  }
-}
-
-#odliczanie.expired {
-  grid-template-columns: repeat(1, minmax(100%, 1fr));
-}
-
-#odliczanie > ul > li {
-  font-size: 2.5em;
-}
-#odliczanie > ul > li > span {
-  font-size: 50%;
-  display: block;
-}
-</style>
-
-<script>
-// Set the date we're counting down to
-var countDownDate = new Date("Mar 22, 2024 23:59:00").getTime();
-
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-  // Get today's date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now and the count down date
-  var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="demo"
-  document.getElementById("odliczanie").innerHTML = "<ul><li>"+ days + " <span>dni</span> </li><li>" + hours + " <span>godzin</span> </li><li>" + minutes + " <br><span>minut</span> </li><li>" + seconds + " <span>sekund</span> </li></ul>";
-
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("odliczanie").innerHTML = "<ul><li>0 dni. <span>Mięło ponad 100 dni, a nowy rząd robi wszystko, by temat aborcji zamieść pod dywan...</span></li></ul>";
-    document.getElementById("odliczanie").classList.add("expired");
-  }
-}, 1000);
-</script>
 
 <!-- more -->
 

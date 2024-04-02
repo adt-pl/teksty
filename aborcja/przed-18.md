@@ -102,7 +102,10 @@ Masz do rozważenia dwie opcje:
 
     W zależności od twojego wieku i prawa kraju, w którym znajduje się klinika - możesz potrzebować zgody opiekuna prawnego. 
 
-    * **Niemcy** - osoba w wieku **poniżej 18 lat, potrzebuje zgody** rodzica lub opiekuna prawnego,
+    * **Niemcy**:
+        * osoba w wieku **poniżej 14 lat** może zrobić aborcję ale potrzebuje do tego **towarzystwa i zgody** rodzica lub opiekuna prawnego,
+        * w okresie od 14 **do 16 roku życia** *niektórzy* lekarze **nie** oczekują towarzystwa i zgody rodzica/opiekuna - im bliżej jesteś 16 roku życia tym większe szanse na to, że lekarz uzna, że możesz samodzilnie podjąć te decyzję,
+        * **osoba powyżej 16 lat nie potrzebuje już niczyjej zgody** i jest samodzielna w podejmowaniu decyzji,
     * **Holandia** - osoba w wieku **powyżej 16 lat**, może samodzielnie podejmować decyzję i **nie potrzebuje zgody** rodzica ani opiekuna prawnego, 
     * **Austria** - osoba w wieku **poniżej 18 lat, potrzebuje zgody** rodzica lub opiekuna prawnego,
     * **Wielka Brytania** - osoba **niezależnie od wieku**, może samodzielnie podejmować decyzję i **nie potrzebuje zgody** rodzica ani opiekuna prawnego,

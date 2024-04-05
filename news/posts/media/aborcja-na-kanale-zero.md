@@ -1,6 +1,6 @@
 ---
-date: 2024-03-29
-time: 14:00
+date: 2024-04-05
+time: 20:00
 categories:
   - Kultura
   - Polityka
@@ -19,7 +19,7 @@ links:
   
 title: Nie tylko pasożyty!
 h1Small: Top 10 momentów z debaty na kanale Zero
-description: Debata o aborcji między osobami o poglądach "pro-choice" (za aborcją), a działaczkami przeciwnymi aborcji? Moderowana przez Roberta Mazurka? Co mogło pójść nie tak?!
+description: Debata o aborcji na której nie mówiono o aborcji? Moderowana przez Roberta Mazurka? Co mogło pójść nie tak?!
 
 postImage: yes
 postImagePath: /news/assets/images/debata-aborcyjna-kanal-zero.webp
@@ -29,15 +29,11 @@ postImageSource: no
 
 # Nie tylko pasożyty - top 10 momentów z debaty o aborcji na kanale Zero
 
-W zeszłym tygodniu, na *Kanale Zero* Stanowskiego miała odbyć się debata o aborcji. Forma zakładała dyskusję pomiędzy osobami działającymi na rzecz aborcji (tzw. "pro-choice"), a przeciwniczkami dostępu do niej. Obie strony miały również odpowiedzieć na pytania od publiczności. W praktyce o aborcji prawie nie było mowy, a w szerokim internecie debata zasłynęła z jednego momentu dzięki słowom o "płodach-pasożytach".
+W zeszłym tygodniu, na *Kanale Zero* Krzysztofa Stanowskiego miała odbyć się debata o aborcji. Forma zakładała dyskusję pomiędzy osobami działającymi na rzecz aborcji (tzw. "pro-choice"), a przeciwniczkami dostępu do niej. W praktyce o aborcji prawie nie było mowy, a w internecie debata zasłynęła z tylko jednego momentu dzięki słowom o "płodach-pasożytach".
 
 <!-- more -->
 
-Pytania przygotowane przez Roberka Mazurka jak i wydźwięk spotkania były dopasowane do specyficznej części publiki kanału. Części, która jest *raczej* konserwatywna i *raczej* składa się z osób, które o aborcji wiedzą tyle, co serwują im konserwatywne media.
-
-Czy z tej dziwnej debaty dało się wynieść coś wartościowego?
-
-### Uczestniczki debaty
+## Uczestniczki debaty
 
 Do udziału w debacie do reprezentacji stanowiska pro-aborcyjnego zaproszono: 
 
@@ -51,39 +47,45 @@ Stanowisko "anty" objęły:
 
 Słowami samego prowadzącego - nie zostały zaproszone *"dlatego że są kobietami, tylko dlatego, że są fachowcami - że się na tym znają"*. Czy jest faktycznie? Wybór osób do dyskusji na pewno można określić jako *"ciekawy"* i jest to miła odmiana od fatalnego motywu panów w garniturach, kitlach i sutannach.
 
-Niestety **w dyskusji zabrakło głosów ekspertek stricte z dziedziny aborcji i osób, które na codzień zajmują się pomocą w aborcjach. Czyli kogoś, kto w merytoryczny sposób opowiedziałby o tym, jak wygląda 99,97% aborcji w Polsce.** Rolę tę dzielnie próbowała wypełnić Dr Anna Orawiec jednak w naszym odczuciu z jej obecności w ogóle nie skorzystano. Również postać prowadzącego - Roberta Mazurka budzi parę wątpliwości - ale do tego dopiero przejdziemy.
+Niestety **w dyskusji zabrakło głosów ekspertek stricte z dziedziny aborcji i osób, które na codzień zajmują się pomocą w aborcjach. Czyli kogoś, kto w merytoryczny sposób opowiedziałby o tym, jak wygląda 99,97% aborcji w Polsce.** Rolę tę dzielnie próbowała wypełnić Dr Anna Orawiec jednak w naszym odczuciu z jej obecności w ogóle nie skorzystano. Również postać prowadzącego - Roberta Mazurka budzi parę wątpliwości.
+
+Pytania przygotowane przez Roberka Mazurka jak i wydźwięk spotkania były dopasowane do specyficznej części publiki kanału. Części, która jest *raczej* konserwatywna i *raczej* składa się z osób, które o aborcji wiedzą tyle, co serwują im konserwatywne media.
 
 Czujemy, że najwyższy czas rozprawić się z licznymi skandalicznymi wypowiedziami i powielanymi mitami, które padły podczas debaty.
 
-### Czy płód to pasożyt? - najsłynniejszy fragment debaty
+## Czy płód to pasożyt? - najsłynniejszy fragment debaty
 
-Zanim jednak podzielimy się z wami naszym (głównie anty) TOP 10 momentów, to chcemy rozprawić się z przysłowiowym *słoniem w salonie*. Z momentem przez który debata zasłynęła w szerokim internecie i mediach.
+Zanim jednak podzielimy się naszym (głównie anty) TOP 10 momentów, to chcemy rozprawić się z przysłowiowym *słoniem w salonie*. 
 
-Temat krąży w postaci licznych artykułów cytujących z oburzeniem jedną z wypowiedzi Dr Anny Orawiec. Na pytanie jednej ze słuchaczek potwierdziła, że ciążę - z medycznego punktu widzenia - można porównać do **sytuacji pasożytniczej.**
+Temat krąży w postaci licznych artykułów cytujących z oburzeniem jedną z wypowiedzi Dr Anny Orawiec. Na pytanie słuchaczki potwierdziła, że ciążę - z medycznego punktu widzenia - można porównać do **sytuacji pasożytniczej.**
 
-Z wypowiedzi tej natychmiast skorzystali anty-aborcyjni i prawicowi działacze podsycając opowieść o tym, że osoby robiące aborcję *"nienawidzą i dehumanizują dzieci"*. Tak przedstawiona opowieść oburzyła już szersze grono osób, które poczuły, że umniejsza sie im dzieciom i decyzji o rodzicielstwie. Jednak w rzeczywistośći Dr Orawiec nie mówiła o dzieciach, a o płodach.
+Z wypowiedzi tej natychmiast skorzystali anty-aborcyjni i prawicowi działacze podsycając opowieść o tym, że osoby robiące aborcję *"nienawidzą i dehumanizują dzieci"*. Tak przedstawiona opowieść oburzyła już szersze grono osób, które poczuły, że umniejsza sie im dzieciom i ich decyzji o rodzicielstwie. Jednak w rzeczywistośći Dr Orawiec nie mówiła o czyiś konkretnych dzieciach, a o płodach - z biologicznego punktu widzenia.
 
-Wypowiedź Dr Orawiec została wyrwana z kontekstu. Pasożytnictwo to sytuacja, w której *jeden organizm żyje na koszt drugiego - nie dając nic w zamian* i faktycznie jest to dynamika, w której znajduje się **osoba w ciąży** i **płód**. Dr Orawiec przedstawiła tego merytoryczne uzasadnienie i nie ma tu żadnych powodów do oburzenia. Według przeciwników aborcji, *"dr Orawiec uważa, że dzieciątka to pasożyty"* - co nie oddaje ani sensu, ani sprawiedliwości jej słowom.
+Pasożytnictwo to sytuacja, w której *jeden organizm żyje na koszt drugiego - nie dając nic w zamian* i faktycznie jest to dynamika, w której znajduje się **osoba w ciąży** i **płód**. Dr Orawiec przedstawiła tego merytoryczne uzasadnienie i nie ma tu żadnych powodów do oburzenia. 
 
-### Nasze stanowisko w sprawie rozróżnienia na dzieci i płody
+Jednak wypowiedź Dr Orawiec została wyrwana z kontekstu i według przeciwników aborcji, *"dr Orawiec uważa, że dzieciątka to pasożyty"* - co nie oddaje ani sensu, ani sprawiedliwości jej słowom.
 
-Jako Aborcyjny Dream Team szanujemy zarówno kobiety dla których ciąża stanowi o momencie powstania dziecka, tak samo jak i te dla których *"płód to tylko płód"*. To ich zdanie (a nie polityków, lekarzy czy działaczy) jest najistotniejsze - bo to właśnie ich ciąże. Dla nas to osoba w ciąży ma prawo określać sobie ciążę jak chce.
+!!! note "Nasze stanowisko w sprawie "płodów-pasożytów"
 
-Nie zgadzamy się, by szantażować wszystkie osoby w ciąży argumentem: *"jeśli uważasz, że to już dziecko, to musisz być przeciwniczką aborcji, bo inaczej będziemy nazywać cię dzieciobójczynią"*. Nie. **Możesz myśleć o swojej ciąży jako o dziecku i nadal chcieć lub potrzebować aborcji.** Twoja ciąża - twoja decyzja.
+    Jako Aborcyjny Dream Team szanujemy zarówno kobiety dla których *ciąża to dziecko*, jak i te dla których *"płód to płód"*. To zdanie kobiety w ciąży - chcianej lub niechcianej - a nie polityków, lekarzy czy działaczy, jest najistotniejsze. To ich ciąże. **Dla nas to osoba w ciąży ma prawo określać sobie ciążę jak chce.**
 
-Największym problemem w tej całej dyskusji nie jest to, by znaleść filozoficzny moment w którym zarodek można nazwać już dzieckiem - tylko to, by **oddać tę decyzję i władzę nad tą sytuację konkretnej kobiecie w ciąży.** Po raz kolejny zamiast skupić się na kobietach skupiono się bowiem na dywagacjach o płodach i dzieciach.
+    Nie zgadzamy się, by szantażować wszystkie osoby w ciąży argumentem: *"jeśli uważasz, że to już dziecko, to musisz być przeciwniczką aborcji, bo inaczej będziemy nazywać cię dzieciobójczynią"*. Nie. **Możesz myśleć o swojej ciąży jako o dziecku i nadal chcieć lub potrzebować aborcji.** Bo twoja ciąża, to wyłącznie twoja decyzja.
+
+    Największym problemem w dyskusji o aborcji w Polsce nie jest to, by znaleść filozoficzny moment w którym zarodek można nazwać już dzieckiem - tylko to, by **oddać tę decyzję i władzę nad tą sytuację konkretnej kobiecie w ciąży.** Po raz kolejny zamiast skupić się na kobietach skupiono się bowiem na dywagacjach o płodach i dzieciach.
 
 ##  Top 10 wypowiedzi z debaty o aborcji na Kanale Zero
 
-Wbrew temu, co przeczytać można w mediach o "pasożytach", podczas 2,5-godzinnej debaty padło jednak więcej "ciekawych" wypowiedzi.
+Wbrew temu, co przeczytać można w mediach o "pasożytach" to podczas 2,5-godzinnej debaty padło jednak więcej skandalicznych wypowiedzi.
 
-Nasza top-lista śmiesznych (a czasami i strasznych) wypowiedzi stanowi idealny przykład popularnych mitów wokół przerywania ciąży. Podczas debaty na Kanale Zero usłyszeć można było między innymi: *o nieaktualnych od dziesięcioleci metodach i pseudo-medycznych zabobonach (a nawet nieszczęsnych wieszakach);o sprowadzaniu wszystkich aborcji o aborcji embriopatologicznych; o wielu pomysłach na wyznaczanie momentu "początku" życia; o problemach w relacjach damsko-męskich i o mężczyznach wykluczonych z dyskusji*.
+Nasza top-lista śmiesznych (a czasami i strasznych) wypowiedzi może nie niesie za sobą wysokiej wartości edukacyjnej, ale stanowi idealny przykład popularnych mitów wokół przerywania ciąży.
+
+Podczas debaty na Kanale Zero usłyszeć można było między innymi: *o nieaktualnych od dziesięcioleci metodach i pseudo-medycznych zabobonach (a nawet nieszczęsnych wieszakach);o sprowadzaniu wszystkich aborcji o aborcji embriopatologicznych; o wielu pomysłach na wyznaczanie momentu "początku" życia; o problemach w relacjach damsko-męskich i o mężczyznach wykluczonych z dyskusji*.
 
 Zapnijcie pasy, bo przed wami lista dziesięciu najciekawszych fragmentów debaty, stworzona z myślą o tych, którzy podjęli słuszną decyzję o niewłączeniu transmisji. :wink:
 
 ### Hit nr. 1 - Kobiety w ciąży mają ograniczone prawa
 
-Według posłanki PiSu, Katarzyny Sójki, prawa kobiet istnieją tak długo, jak dana kobieta nie jest w ciąży. Jak już w tej ciąży jesteśmy, to według posłanki tracimy część swoich praw na rzecz płodu:
+Według posłanki PiSu, Katarzyny Sójki, prawa kobiet istnieją tak długo, jak dana kobieta nie jest w ciąży. Jak już w tej ciąży jesteśmy, to według posłanki PiS'u tracimy część swoich praw na rzecz płodu:
 
 > Kobieta jak najbardziej ma pełne prawo do stanowienia o samej sobie, ale w sytuacji na przykład przyjmowania antykoncepcji czy decydowaniu o tym, żeby nie zajść w ciążę. Natomiast w sytuacji, kiedy już jest w ciąży, jej prawa są ograniczone ze względu chociażby na to, że prawo ma również dziecko, które jest w jej brzuchu.&nbsp;[^1]
 
@@ -289,32 +291,32 @@ Przekrzykiwanie się hasłami w stylu "było się zabezpieczać" przyczynia się
 
 Na naszej stronie możecie przeczytać [dziesiątki historii osób, które się zabezpieczały](./../../../mialam-aborcje/index.md) (gumkami, tabletkami, wkładkami), albo usłyszały od lekarzy, że są już bezpłodne ale i tak udało im się zajść w niechcianą ciążę.
 
-### Hit nr. 10 - Robert "weź się uspokój" Mazurek
+### Hit nr. 10 - Robert Mazurek
 
 #### Mazurek jako moderator
 
 Własną pozycję na liście smaczków zaskarbił sobie w naszej opinii również sam prowadzący. Mamy do niego parę zastrzeżeń:
 
-* Mazurek niektórym osobom zarówno przerywał jak i pozwalał, by przerywały im inne uczestniczki,
-* zamiast zachęcić uczestniczki do sensownej debaty (między sobą skoro są według niego ekspertkami) to wciągał je w zupełnie niepotrzebne pseudo-filozoficzne bajdurzenia (np. pytając Annę Marię Żukowską, *"czy płód to człowiek?"* i *"czy płód ma prawo do dziedziczenia?"*),
-* Mazurek tak bardzo wciągnął się w bycie uczestnikiem rozmowy, że zapominał o moderacji i pozwalał, by debata gubiła wątki,
-* w paru momentach postanowił również sam zostać ekspertem od aborcji i zabłysnąć "ciekawostkami", których źródeł nie raczył przywołać ku zażenowaniu obecnych,
-* tym ekspertem jednak nie był, gdyż bez sprostowania zostawiał momenty, w których uczestniczki mówiły nieprawdę i tezy sprzeczne z badaniami i wiedzą naukową,
+* Mazurek niektórym osobom zarówno przerywał jak i pozwalał, by przerywały im inne uczestniczki, 
+* zamiast zachęcić uczestniczki do sensownej debaty między sobą (skoro są według niego ekspertkami) to wciągał je w zupełnie niepotrzebne pseudo-filozoficzne bajdurzenia (np. pytając Annę Marię Żukowską, *"czy płód to człowiek?"* i *"czy płód ma prawo do dziedziczenia?"*),
+* Mazurek tak bardzo wciągnął się w bycie uczestnikiem rozmowy, że zapominał o moderacji i pozwalał, by ta gubiła wątki,
+* w paru momentach postanowił również sam zostać ekspertem od aborcji i zabłysnąć "ciekawostkami", których źródeł nie raczył przywołać, ku zażenowaniu obecnych,
+* tym aborcyjnym ekspertem Mazurek jednak nie był, gdyż bez sprostowania zostawiał momenty, w których uczestniczki mówiły nieprawdę i tezy sprzeczne z badaniami i wiedzą naukową,
 * no i na koniec: Mazurek ma o aborcji swoje mocne i liczne opinie. Nawet jako moderator nie wstydzi się nimi non stop dzielić...
 
-Łatwo przyłapać Mazurka na byciu stronniczym. Łatwo złapać Mazurka za język, gdy mówi antyaborcyjne tezy o tym, że aborcja po 12 tygodniu *"to już hardcore"*. Ale nie ta stronniczość najbardziej nas oburza.
+Łatwo przyłapać Mazurka na byciu stronniczym. Łatwo złapać Mazurka za język, gdy mówi antyaborcyjne tezy o tym, że aborcja po 12 tygodniu *"to już hardcore"*. Ale nie ta stronniczość najbardziej nas oburza, ale...
 
 #### Mazurek jako przedszkolanka
 
 Kwestią, którą może wydawać się z pozoru szczytna, jest cel, jaki ustalił sobie Mazurek. 
 
-Celem, cytując: miało być *"dokonanie pewnego cudu"* czyli *"kulturalnej rozmowy o aborcji, w której strony się wzajemnie nie pozabijają"* i *"nie poleje się krew"* bo według niego *"nic nie wywołuje takich sporów"* jak aborcja.&nbsp;[^19]
+Celem, cytując Mazurka: miało być *"dokonanie pewnego cudu"* czyli *"kulturalnej rozmowy o aborcji, w której strony się wzajemnie nie pozabijają"* i *"nie poleje się krew"* bo według niego *"nic nie wywołuje takich sporów"* jak aborcja.&nbsp;[^19]
 
 [^19]: 00:02:46 [Debata o prawie do aborcji na Kanale Zero...](https://www.youtube.com/watch?v=f20QShuFabU)
 
 Fakty są jednak takie, że temat aborcji bardzo łączy Polaków i Polki - jak pokazują badania większość z nas jest za aborcją. W młodszych pokoleniach są to liczby zbliżające się do 100%. **Mazurek strasząc "sporem i rozlewem krwi" wywołuje Chochoła.**
 
-Konflikt w temacie aborcji występuje raczej między nami - społeczeństwem - a konserwatywnymi politykami i ich wąskim elektoratem. Twarzą tego konfliktu i napięcia, są trwające od 2016 roku non-stop pro-aborcyjne protesty. Według nas **apel o "grzeczną dyskusję" ze strony Mazurka, to prośba o wycofanie się na pozycje sprzed Czarnych Protestów** i Strajków Kobiet.
+Konflikt w temacie aborcji występuje raczej między społeczeństwem - a konserwatywnymi politykami i ich wąskim elektoratem. Twarzą tego konfliktu i napięcia, są trwające od 2016 roku non-stop pro-aborcyjne protesty. Według nas **apel o "grzeczną dyskusję" ze strony Mazurka, to prośba o wycofanie się na pozycje sprzed Czarnych Protestów** i Strajków Kobiet.
 
 Apel Mazurka ma też drugie dno, które widać podczas debaty. "Dokonanie cudu grzeczności" nie spowodowało, że rozmowa na Kanale Zero była merytoryczna, mądra ani sensowna. **Kulturalność nie zagwarantowała debacie jakości.** Przeciwnie - mimo tego, że uczestniczki były non stop dyscyplinowane, to procent aborcyjnych bzdur i mitów nie różnił się znacząco od najgorszych internetowych wojenek i kłótni na Facebooku.
 
@@ -324,8 +326,12 @@ W takiej świętobliwej, uwznioślonej, umoralnionej i wysublimowanej dyskusji o
 
 ## Czego zabrakło w debacie?
 
-* Rozmowy o aborcjach, a nie dzieciach i płodach,
-* Reprezentacji perspektywy kobiet które przerywają swoje ciąże,
-* Uwzględnienia większej ilości sytuacji w których kobiety terminują ciążę,
-* Nie skupiania się na sytuacjach skrajnych i dramatycznych,
-* Kontroli anty-naukowych twierdzeń i mitów
+Podsumowując, w debacie o aborcji na Kanale Zero zabrakło przede wszytskim:
+
+* **zabrało rozmowy o aborcjach,** a nie o dzieciach i płodach,
+* zabrakło reprezentacji i perspektywy kobiet które przerywają swoje ciąże,
+* zabrakło uwzględnienia większej ilości sytuacji w których kobiety terminują ciążę,
+* zabrakło nie skupiania się na sytuacjach skrajnych i dramatycznych,
+* zabrakło kontroli anty-naukowych twierdzeń i mitów.
+
+Bardzo ładie. 2/10.

@@ -61,7 +61,13 @@ Aktywność Użytkownika w Serwisie, w tym jego dane osobowe, są rejestrowane w
 
 Zebrane w logach informacje przetwarzane są przede wszystkim w celach związanych ze świadczeniem usług. Administrator przetwarza również te dane w celach technicznych, administracyjnych, na potrzeby zapewnienia bezpieczeństwa systemu informatycznego oraz zarządzania nim, a także w celach analitycznych i statystycznych – w tym zakresie podstawą prawną przetwarzania jest prawnie uzasadniony interes administratora (art. 6 ust. 1 lit. f) RODO).
 
-Mimo, że nas Serwis **nie korzysta z plików cookies**, to informujemy o tym czym są i jak mogą być wykorzystywane, gdyż mają zastosowanie do innych podobnych technologii wykorzystywanych w ramach Serwisu. 
+{--
+
+Mimo, że nas Serwis **nie korzysta z plików cookies**, to informujemy o tym czym są i jak mogą być wykorzystywane, gdyż mają zastosowanie do innych podobnych technologii wykorzystywanych w ramach Serwisu.
+
+--}
+
+Od czerwca 2024 przez okres paru miesięcy będziemy korzystały z "ciasteczek" w celu optymalizacji strony. Skorzystamy do tego z analityki od [Google Analytics](https://developers.google.com/analytics). Jak zawsze - możecie zablokować ciasteczka, a strona będzie działać tak samo. :)
 
 ??? question "Czym są pliki cookies?"
 

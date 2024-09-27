@@ -1,20 +1,21 @@
 ---
+postImagePath: /news/assets/images/klamstwa-lekarzy-o-aborcji.webp
+postImageSourceText: W tle doktor Bogdan Chazan.
+authors:
+  - adt
 date: 2022-01-31
-categories:
-  - Mity
+postImageSource: yes
+title: 9 kłamstw o aborcji, które usłyszysz od lekarza
 tags:
   - Aborcyjna stygma
   - Fakty i mity
-authors:
-  - adt
+  - test1
 links:
   - news/posts/mity/co-lekarz-powinnien-wiedziec-o-aborcji.md
-
 postImage: yes
-postImagePath: /news/assets/images/klamstwa-lekarzy-o-aborcji.webp
+categories:
+  - Mity
 postImageTitle: Rysunki lekarzy przebranych za błazna i pikokia. W tle Bogdan Chazan.
-postImageSource: yes
-postImageSourceText: W tle doktor Bogdan Chazan.
 ---
 
 # 9 kłamstw o aborcji, które usłyszysz od lekarza { id="9-klamstw-o-aborcji" }

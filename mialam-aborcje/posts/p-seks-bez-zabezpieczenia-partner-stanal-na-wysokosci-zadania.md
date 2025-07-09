@@ -2,20 +2,20 @@
 social:
   cards_layout: story
 date: 2025-07-03
-title: x
-description: x
+title: Partner, mimo krótkiego stażu znajomości, stanął na wysokości zadania
+description: Znaliśmy się niecały miesiąc, seks bez zabezpieczenia uprawialiśmy raz po niedużej ilości alkoholu, bez wytrysku. No ale stało się. Zaczęłam się czuć źle fizycznie, miesiączka spóźniała się 2 tygodnie, zrobiłam test, który dosłownie po kilku sekundach już pokazał pozytywny wynik.
 
 autorka: P
 wiek: 26
 ---
 
-# x
+# Partner, mimo krótkiego stażu znajomości, stanął na wysokości zadania
 
 Odpychałam myśl, że spóźniająca się miesiączka może oznaczać ciążę.
 
 <!-- more -->
 
- Znaliśmy się niecały miesiąc, seks bez zabezpieczenia uprawialiśmy raz po niedużej ilości alkoholu, bez wytrysku. No ale stało się. Zaczęłam się czuć źle fizycznie, miesiączka spóźniała się 2 tygodnie, zrobiłam test, który dosłownie po kilku sekundach już pokazał pozytywny wynik. Akurat byłam sama za granicą służbowo. Już po chwili przez telefon podjęliśmy decyzję o aborcji, niestety już w Polsce, bo na następny dzień wracałam do kraju. A mogłam to załatwić tam gdybym tylko zrobiła test wcześniej... Ale dzięki działalności Aborcyjnego Dream Teamu, którą śledzę od kilku lat, wiedziałam, że się da.
+Znaliśmy się niecały miesiąc, seks bez zabezpieczenia uprawialiśmy raz po niedużej ilości alkoholu, bez wytrysku. No ale stało się. Zaczęłam się czuć źle fizycznie, miesiączka spóźniała się 2 tygodnie, zrobiłam test, który dosłownie po kilku sekundach już pokazał pozytywny wynik. Akurat byłam sama za granicą służbowo. Już po chwili przez telefon podjęliśmy decyzję o aborcji, niestety już w Polsce, bo na następny dzień wracałam do kraju. A mogłam to załatwić tam gdybym tylko zrobiła test wcześniej... Ale dzięki działalności Aborcyjnego Dream Teamu, którą śledzę od kilku lat, wiedziałam, że się da.
 
 Po powrocie wraz z wsparciem przyjaciółki wizyta u zaufanej ginekolożki, która nie zadawała niekomfortowych pytań. Objęła za cel to, co dla mnie było najistotniejsze. Uspokoiła mnie, zapewniła, że tabletki są bezpieczne, uprzedziła kiedy w razie czego zgłosić się do szpitala i kiedy przyjść na kontrolne USG. Tabletki zamówiłam od Women for Women na adres przyjaciółki.
 

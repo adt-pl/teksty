@@ -11,13 +11,13 @@ tags:
 
 
 postImage: yes
-postImagePath: /news/assets/images/dominika-wielowiejska-aborcja.jpg
+postImagePath: /news/assets/images/dominika-wielowiejska-aborcja.webp
 postImageHeight: 30%
-postImageTitle: Dominika Wielowejska uważa, że aborcja nie jest ok
+postImageTitle: Dominika Wielowieyska uważa, że aborcja nie jest ok
 postImageAlt: Dominika Wielowiejska siedzi z poważną miną w czerwonym garniturze z notatkami na kolanach.
 postImageSource: yes
-postImageSourceText: fot. Cezary Aszkiełowicz / Agencja Wyborcza.pl
-postImageSourceUrl: https://wyborcza.pl/magazyn/7,124059,23265880,aborcja-zanim-sie-pozabijamy-mozna-byc-ateista-i-uwazac-ze.html
+postImageSourceText: fot. Adrian Grycuk CC BY-SA 3.0 pl,
+postImageSourceUrl: https://commons.wikimedia.org/w/index.php?curid=83069409
 ---
 
 # Wielowieyska podejmie decyzję o aborcji zamiast ciebie - polemika z antyaborcyjnym tekstem w Gazecie Wyborczej { id="wielowieyska-podejmie-decyzje-o-aborcji-za-ciebie-polemika" }

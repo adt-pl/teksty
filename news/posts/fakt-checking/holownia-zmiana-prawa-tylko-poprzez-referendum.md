@@ -11,7 +11,7 @@ authors:
   - adt
 
 postImage: yes
-postImagePath: /assets/images/kosiniak-holownia-psl.jpg
+postImagePath: /assets/images/kosiniak-holownia-psl.webp
 postImageHeight: 25%
 postImageAlt: >- 
   Szymon Hołownia ogłaszający współpracę i wspólną listę z anty-aborcyjnymi posłami PSLu.

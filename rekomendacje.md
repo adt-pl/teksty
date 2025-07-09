@@ -276,8 +276,6 @@ Zachęcamy was do zapoznania się z historiami kobiet, które [piszą o tym jak 
 
 Oto parę projektów, które zrealizowałyśmy z zewnętrznym wsparciem:
 
-<!-- 2222: uzupełnić granty i projekty -->
-
 ### Het Actiefonds
 
 W 2022 roku [Het Actiefonds :octicons-link-external-16:](https://hetactiefonds.nl/en/homepage/) wsparł nas oraz [Centrum Praw Kobiet :octicons-link-external-16:](https://cpk.org.pl/jak-pisac-o-przemocy-poradnik-dla-mediow-od-centrum-praw-kobiet/) w napisaniu i wydaniu poradnika dla mediów [Dlaczego nie odeszła od niego wcześniej?](./do-pobrania/index.md/#zin-cpk-dlaczego-nie-odeszla-wczesniej).
@@ -289,8 +287,6 @@ W 2019 roku [FemFund :octicons-link-external-16:](https://femfund.pl/kogo-wspier
 ## Nagrody { id="nagrody" }
 
 W ostatnich latach zarówno ADT jako organizacja, jak i nasze działaczki otrzymały wiele nominacji i nagród za swoją działalność. Oto niektóre z nich:
-
-<!-- 2222: uzupełnić o 2023 -->
 
 <div class="grid cards" markdown>
 

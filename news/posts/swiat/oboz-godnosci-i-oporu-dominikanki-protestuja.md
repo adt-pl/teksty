@@ -10,7 +10,8 @@ postImagePath: /news/assets/images/oboz-godnosci-i-oporu-dominikanki-protestuja/
 postImageHeight: 70%
 postImageTitle: Aborcyjny prostest Dominikanek 
 postImageAlt: Uniesiona kobieca pięść z branzoletką z napisem Las Causales Van.
-postImageSource: no
+postImageSource: yes
+postImageSourceText: art by IG lostinyourart
 ---
 
 # „Obóz godności i oporu” – Dominikanki protestują rozliczając polityków { id="dominikana-oboz-odnosci-i-oporu" }
@@ -19,13 +20,13 @@ Od trzech tygodni przed Pałacem Narodowym w Santo Domingo na Dominikanie stoją
 
 <!-- more -->
 
-![](../../assets/images/oboz-godnosci-i-oporu-dominikanki-protestuja/protestujace-dominikanki.jpg)
+![](../../assets/images/oboz-godnosci-i-oporu-dominikanki-protestuja/protestujace-dominikanki.webp)
 
 ## Dominikanki protestują pod pałacem prezydenckim { id="protesty-pod-palacem-prezydenckim" }
 
 Obóz ma zakłócać życie polityczne i konkretnie przypominać, że prezydent Luis Abinader, który niedawno przeniósł się do Pałacu, w czasie kampanii wyborczej obiecywał nowelizacje kodeksu karnego, w którym aborcja przestałaby być przestępstwem, gdy życie osoby w ciąży było zagrożone, w przypadku gwałtu, kazirodztwa lub wad rozwojowych płodu. Nowy prezydent nie śpieszy się z realizacją obietnicy, dlatego działaczki rozstawiły obóz, w którym od trzech tygodni bez przerwy protestują, ale też dyskutują, śpiewają, tańczą czy dzielą się swoimi doświadczeniami aborcyjnymi.
 
-![](../../assets/images/oboz-godnosci-i-oporu-dominikanki-protestuja/namioty-protestujacych.jpg)
+![](../../assets/images/oboz-godnosci-i-oporu-dominikanki-protestuja/namioty-protestujacych.webp)
 
 ## Jak wygląda dominikańskie prawo aborcyjne? { id="prawo-aborcyjne-na-dominikanie" }
 
@@ -35,7 +36,7 @@ Na Dominikanie nadal obowiązuje kodeks z 1884 roku w którym aborcja jest całk
 
 W praktyce nie prowadzi się spraw karnych, ale sama kryminalizacja wpływa bardzo na strach i stygmę. Mimo, że aborcja jest przez wielu lekarzy i inny personel medyczny traktowana jako zabieg ratujący życie i zdrowie, wykonując go ryzykują swoje kariery. Groźba kary w sposób szczególny dotyczy osób o mniejszych zasobach ekonomicznych i z obszarów wiejskich, co sprawia, że dostęp do aborcji w innym kraju jest znacznie utrudniony.
 
-![](../../assets/images/oboz-godnosci-i-oporu-dominikanki-protestuja/zielone-chusty.jpg)
+![](../../assets/images/oboz-godnosci-i-oporu-dominikanki-protestuja/zielone-chusty.webp)
 
 ## Czy osoby są karane za swoje własne aborcje? { id="kara-za-wlasna-aborcje" }
 
@@ -49,3 +50,10 @@ Prawie 70% Dominikańskiego społeczeństwa uważa, że aborcja w 3 przypadkach 
 **Trzymamy mocno kciuki za wytrwałość i wysyłamy feministyczną energię na Dominikanę**
 
 ![](../../assets/images/oboz-godnosci-i-oporu-dominikanki-protestuja/panel-dyskusyjny.jpg)
+
+Fotografie za:
+
+* By Sabrina Ravenhart - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=141519889
+* By Catalinaines - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=104910281
+* By Sabrina Ravenhart - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=141519895
+* By Sabrina Ravenhart - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=141519898

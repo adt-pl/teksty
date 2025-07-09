@@ -14,9 +14,11 @@ tldr: >-
     Niestety referendum niesie za sobą bardzo poważne zagrożenia, których pod uwagę nie biorą nawet sojusznicy dostępu do aborcji! Wyjaśniamy dlaczego idea referendum (nawet gdyby wszyscy zagłosowali za aborcją) to bardzo zły i niebezpieczny dla kobiet pomysł.
 postImage: yes
 postImagePath: /assets/images/holownia-dlaczego-referendum.webp
-postImageAlt: Czy Szymon Hołownia naprawdę chce "dialogu" wokół aborcji?, czy jego referendum ma uniemożliwić przerywanie ciąży?
+postImageAlt: Szymon Hołownia na kongresie partii Polska 2050 Szymona Hołowni
+postImageTitle: Czy Szymon Hołownia naprawdę chce "dialogu" wokół aborcji?, czy jego referendum ma uniemożliwić przerywanie ciąży?
 postImageSource: yes
-postImageSourceText: PAP / fot. Adam Warżawa
+postImageSourceText: fot. Jarosław Barański, CC BY-SA 4.0
+postImageSourceUrl: https://commons.wikimedia.org/wiki/File:Szymon_Ho%C5%82ownia_na_kongresie_partii_Polska_2050_Szymona_Ho%C5%82owni.jpg
 ---
 
 # Referendum aborcyjne - czy prawo do przerywania ciąży powinno zostać poddane ogólnopolskiemu referendum?

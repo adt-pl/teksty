@@ -16,10 +16,11 @@ tldr: >-
     <p>
     <small>Tyle pytań! Odpowiadamy szybko, krótko i na temat - na te i inne zagadnienia związane z Polskim prawem aborcyjnym.</small>
 postImage: yes
-postImagePath: /assets/images/aborcja-jest-prawem-czlowieka.jpg
+postImagePath: /assets/images/strajk-kobiet-zawrzel.webp
 postImageAlt: Kobieta na proaborcyjnym nocnym proteście ma uniesioną pięść nad głową. W drugiej dłoni trzyma karton z napisem - Aborcja jest prawem człowieka.
 postImageSource: yes
-postImageSourceText: for. Beata Zawrzel / NurPhoto
+postImageSourceText: for. Beata Zawrzel
+postImageSourceUrl: https://bzawrzel.wordpress.com/singles/
 ---
 
 ## Najważniejsze informacje o Polskim prawie { id="najwazniejsze-informacje" }

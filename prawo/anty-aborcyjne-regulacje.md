@@ -13,10 +13,10 @@ tldr: >-
     <p>
     <small>Prawo jest dla ludzi, nie ludzie dla prawa. Dowiedz się jakie regulacje doprowadzają do ograniczenia praw reprodukcyjnych i wspieraj tylko dobre projekty.</small>
 postImage: yes
-postImagePath: /assets/images/kosiniak-holownia-psl.jpg
-postImageAlt: Konferencja prasowa na której Szymon Hołownia i Kosiniak Kamysz ogłaszają wspólny start w wyborach. Na pierwszym planie mikrofon telewizji Trwam.
+postImagePath: /assets/images/kosiniak-holownia-psl.webp
+postImageAlt: Szymon Hołownia z Władysławem Kosiniakiem-Kamyszem na konferencji prasowej w Senacie.
 postImageSource: yes
-postImageSourceText: Zgrywający progresywnego Hołownia dołącza do skrajnie anty-aborcyjnego polityka
+postImageSourceText: Zgrywający progresywnego Hołownia dołącza do skrajnie anty-aborcyjnego polityka.
 ---
 
 # Antyaborcyjne regulacje czy aborcja na żądanie? Jak rozpoznać ustawy aborcyjne, które utrudniają dostęp do aborcji?

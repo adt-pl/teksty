@@ -15,7 +15,7 @@ postImageHeight: 50%
 postImageAlt: >-
   Protest podczas Nowojorskiego Komitetu Legislacyjnego ds. Problemów Zdrowia Publicznego z 1969 roku (NYC).
 postImageSource: yes
-postImageSourceText: Protestujące konfrontują się z policją
+postImageSourceText: Protestujące konfrontują się z policją / The New York Times
 postImageSourceUrl: https://wbai.org/upcoming-program/?id=6177
 
 ---

@@ -18,8 +18,10 @@ links:
 postImage: yes
 postImagePath: /news/assets/images/monika-wielichowska.webp
 postImageAlt: >-
-  Marszałkini Monika Wielichowska
-postImageSource: no
+  Kolaz, Marszałkini Monika Wielichowska rozmawia z ADT, w tle schowany za drzewem Marszałek Hołownia.
+postImageSource: yes
+postImageSourceText: Monika Wielichowska / CC BY SA 2.0
+postImageSourceUrl: https://www.flickr.com/photos/platformaobywatelskarp/39695006952/in/photostream/
 ---
 
 # Justyna Wydrzyńska i jej obrońcy spotykali się z marszałkinią Moniką Wielichowską

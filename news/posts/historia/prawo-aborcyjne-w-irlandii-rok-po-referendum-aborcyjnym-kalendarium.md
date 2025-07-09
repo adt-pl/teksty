@@ -13,7 +13,10 @@ postImagePath: /news/assets/images/strike-4-repeal.jpg
 postImageAlt: >-
   Baner protestu Strike 4 repeal 8 march.
 postImageHeight: 50%
-postImageSource: no
+postImageSource: yes
+postImageSourceUrl: http://www.wsm.ie/c/reasons-strike-repeal-8th-march
+postImageSourceText: ilu. Workers Solidarity Movement
+
 ---
 
 # Rok po referendum aborcyjnym w Irlandii - kalendarium prawa aborcyjnego

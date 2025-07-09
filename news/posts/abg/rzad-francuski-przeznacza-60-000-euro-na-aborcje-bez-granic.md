@@ -10,13 +10,15 @@ tags:
   - Rekomendacje
   
 postImage: yes
-postImagePath: /news/assets/images/isabelle-rome.jpg
+postImagePath: /news/assets/images/isabelle-rome.webp
 postImageHeight: 20%
 postImageTitle: Francja finansuje aborcję Polkom i Ukrainkom poprzez Aborcję Bez Granic.
 postImageAlt: >-
   Isabelle Rome, ministra delegowana w gabinecie premiery do spraw równouprawnienia kobiet i mężczyzn, różnorodności oraz równych szans stara się pomóc Ukrainkom szukającym wsparcia w aborcji na terenie Polski.
 postImageSource: yes
-postImageSourceText: Isabelle Rome
+postImageSourceText: Isabelle Rome / Open License 2.0
+postImageSourceUrl: https://www.egalite-femmes-hommes.gouv.fr/discours-disabelle-lonvis-rome-presentation-du-plan-national-de-lutte-contre-le-racisme
+
 ---
 
 # Wsparcie finansowe na aborcje dla Polek i Ukrainek od fransuckiego rządu { id="francja-wspiera-aborcje-dla-polek-i-ukrainek" }

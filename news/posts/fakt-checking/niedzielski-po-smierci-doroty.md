@@ -12,11 +12,12 @@ authors:
   - adt
 
 postImage: yes
-postImagePath: /news/assets/images/adam-niedzielski.jpg
+postImagePath: /news/assets/images/adam-niedzielski.webp
 postImageHeight: 50%
 postImageAlt: Adam Niedzielski.
 postImageSource: yes
-postImageSourceText: Adam Niedzielski / fot. Mateusz Wlodarczyk
+postImageSourceText: Adam Niedzielski / fot. Kancelaria Premiera / CC BY 3.0 
+postImageSourceUrl: https://www.gov.pl/web/premier/adam-niedzielski
 ---
 
 # Adam Niedzielki po śmierci Doroty z Nowego Targu

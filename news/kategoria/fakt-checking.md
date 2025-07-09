@@ -16,8 +16,7 @@ tldr: >-
     <p>
     By przeciwdziałać <a href="/edu/stygmatyzacja/">stygamtyzacji aborcji</a> oraz demaskować popularne mity na jej temat śledzimy wypowiedzi polityków, dziennikarzy i ekspertów i poddajemy je weryfikacji.
 postImage: yes
-postImagePath: /news/assets/images/kaja-godek-podczas-posiedzenia-sejmu-wita-sie-z-prezesem-pis-2018-r.jpg
-postImageAlt: Kaja Godek w sejmie rozmawia z Jarosławem Kaczyńskim o aborcji.
-postImageSource: yes
-postImageSourceText: fot. Radek Pietruszka / PAP
+postImagePath: /news/assets/images/fakt-checking.webp
+postImageAlt: Kolaż z twarzy polskich polityków ze wszystkich opcji politycznych.
+postImageSource: no
 ---

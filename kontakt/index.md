@@ -150,16 +150,8 @@ Wspieramy wszystkie osoby potrzebujące aborcji - niezależnie od pochodzenia, w
 
 ??? question "Czy ADT zapewnia anonimowość i prywatność?"
 
-    Tak. Z naszej strony robimy wszystko, by zaoferować ci bezpieczeństwo i dostosowujemy nasze rozwiązania do twoich potrzeb i komfortu. Od 2023 rozpoczęłyśmy wprowadzanie kompleksowych rozwiązań, dzięki którym będziemy w stanie zapewnić ci bezpieczeństwo w sieci. Oto część z nich:
+    Tak. Z naszej strony robimy wszystko, by zaoferować ci bezpieczeństwo i dostosowujemy nasze rozwiązania do twoich potrzeb i komfortu. 
     
-    1. Nasza strona nie śledzi i nie przechowuje twoich danych. Zrezygnowałyśmy z popularnych narzędzi analitycznych, które pozwoliłyby na zidentyfikowanie twojej tożsamości na rzecz takich, które szanują twoją prywatność i anonimowość [^1].
-    2. Nasza komunikacja mailowa przechowywana jest na szyfrowanym serwerze pocztowym i nikt oprócz nas nie ma do niej dostępu [^2].
-    3. Ponadto nasz nowy mail wspiera klucze PGP, które szyfrują treść wysyłanych przez ciebie wiadomości i uniemożliwają ich odczytanie *komukolwiek* niepożądanemu. Natywne wsparcie kluczy PGP oferuje m.in. [Protonmail](https://proton.me/) jednak klucze PGP możesz zintegrować z każdą usługą pocztową za pomocą [Mailvelope](https://mailvelope.com/en).
-    
-    Pamiętaj jednak, że również ty możesz podjąć działania, które zabezpieczą twój komputer lub telefon, przed wirusami, programami śledzącymi i innymi zagrożeniami, które naruszają twoją prywatność w internecie.
-
-    [^1]: Korzystamy z szanujących prywatność narzędzi od [Plausible](https://plausible.io/).
-    [^2]: [Protonmail](https://proton.me/mail/security) oferuje nie tylko E2EE ale również zapewnia "zero-access encryption" - to znaczy, że nawet Protonmail nie może odczytać treści naszych maili.
     
 ??? question "Które z moich danych podlegają szczególnej ochronie?"
 

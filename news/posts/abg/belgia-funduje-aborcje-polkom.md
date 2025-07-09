@@ -15,10 +15,12 @@ tags:
 
 
 postImage: yes
-postImagePath: /news/assets/images/belgia-panorama.webp
+postImagePath: /news/assets/images/belgia.webp
 postImageTitle: Belgia przeznacza 10 tysięcy Euro na działalność Aborcji Bez Granic
 postImageAlt: Panorama Belgii
-postImageSource: no
+postImageSource: yes
+postImageSourceText: Trougnouf (Benoit Brummer) CC BY 4.0
+postImageSourceUrl: https://commons.wikimedia.org/w/index.php?curid=116531967
 ---
 
 # Belgia pierwszym krajem fundującym aborcje osobom z Polski { id="belgia-pierwszym-krajem-fundujacym-aborcje-polkom" }

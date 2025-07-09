@@ -8,12 +8,14 @@ authors:
   - adt
 
 postImage: yes
-postImagePath: /news/assets/images/donald-tusk.jpg
+postImagePath: /news/assets/images/donald-tusk.webp
 postImageHeight: 10%
 postImageAlt: >- 
   Donald Tusk w tle logo PO oraz flaga Polski.
 postImageSource: yes
-postImageSourceText: fot. Mateusz Wlodarczyk / FORUM
+postImageSourceText: fot. Gov.pl CC BY 3.0 pl
+postImageSourceUrl: https://commons.wikimedia.org/w/index.php?curid=153139892
+
 ---
 
 # Donald Tusk: Kompromis aborcyjny był czymś wyjątkowo pozytywnym. - Czy to prawda?

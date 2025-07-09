@@ -11,7 +11,7 @@ postImage: yes
 postImagePath: /news/assets/images/natalia-broniarzyk-2019.webp
 postImageHeight: 50%
 postImageTitle: Nowa organizacja aborcyjna - Aborcja Bez Granic - rozpoczęła swoją działalność w Polsce.
-postImageAlt: Natali Broniarczyk i Karolina Więckiewicz udzielają wywiadu dl PAP, TVN oraz Radio Kolor!
+postImageAlt: Natali Broniarczyk i Karolina Więckiewicz udzielają wywiadu dla PAP, TVN oraz Radio Kolor!
 postImageSource: yes
 postImageSourceText: Agata Grzybowska / Agencja Gazeta
 ---

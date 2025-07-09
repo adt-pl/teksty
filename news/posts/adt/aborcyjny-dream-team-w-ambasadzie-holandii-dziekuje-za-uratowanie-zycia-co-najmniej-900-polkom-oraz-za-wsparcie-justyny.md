@@ -13,7 +13,9 @@ postImage: yes
 postImagePath: /news/assets/images/ambasada-krolestwa-niderlandow-w-warszawie.jpeg
 postImageTitle: Holandia wspiera działaczki ADT
 postImageAlt: Budynek ambasady Holadnii w Polsce.
-postImageSource: no
+postImageSource: yes
+postImageSourceUrl: https://www.bryla.pl/bryla/7,85301,23364851,ambasada-krolestwa-niderlandow-w-warszawie-lamie-stereotypy.html
+postImageSourceText: Ambasada Holandii / za bryła.pl
 ---
 
 # Aborcyjny Dream Team w ambasadzie Holandii { id="adt-w-ambasadzie-holandii" }

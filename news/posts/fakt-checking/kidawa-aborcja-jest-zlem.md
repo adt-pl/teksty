@@ -10,12 +10,14 @@ authors:
   - adt
 
 postImage: yes
-postImagePath: /news/assets/images/kidawa-blonska.jpg
+postImagePath: /news/assets/images/kidawa-blonska.webp
 postImageHeight: 45%
 postImageAlt: >- 
   Małgorzata Kidawa-Błońska wraz mężem.
 postImageSource: yes
-postImageSourceText: fot. Piotr Nowak / PAP
+postImageSourceText: Edycja ADT / fot. Platforma Obywatelska RP CC BY-SA 2.0, 
+postImageSourceUrl: https://commons.wikimedia.org/w/index.php?curid=34318755
+
 ---
 
 # Małgorzata Kidawa-Błońska: Aborcja jest złem i nie powinna mieć miejsca. - Czy to prawda?

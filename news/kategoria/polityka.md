@@ -14,5 +14,6 @@ postImage: yes
 postImagePath: /news/assets/images/sejm/broniarczyk-przemowienie-tabletki.jpg
 postImageTitle: Wiadomości z polityki dotyczące aborcji
 postImageAlt: Natalia Broniarczyk w sejmie pokazuje tabletki aborcyjne z mównicy.
-postImageSource: no
+postImageSource: yes
+postImageSourceText: Natalia Broniarczyk / Sejm
 ---

@@ -14,7 +14,8 @@ postImage: yes
 postImagePath: /news/assets/images/stern-mialysmy-aborcje.webp
 postImageHeight: 55%
 postImageSource: yes
-postImageSourceText: historyczna okładka magazynu Stern
+postImageSourceText: historyczna okładka magazynu Stern / Gruner + Jahr
+postImageSourceUrl: https://www.1000dokumente.de/index.html?c=dokument_de&dokument=0142_ste&object=facsimile&pimage=1&v=100&nav=&l=de, Fair use, https://en.wikipedia.org/w/index.php?curid=60387608
 ---
 
 # "Miałyśmy aborcję!" - 50 lat okładki Sterna { id="mialysmy-aborcje-stern" }

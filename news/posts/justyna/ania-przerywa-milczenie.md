@@ -13,6 +13,7 @@ postImageAlt: >-
     Justyna Wydrzyńska i Anna na kolażu - w tle tabletki aborcyjne i symbole Strajku Kobiet.
 postImageSource: yes
 postImageSourceText: kolaż Igi Kucharskiej
+postImageSourceUrl: https://oko.press/wywiad-z-anna-ktorej-wydrzynska-wyslala-tabletki
 ---
 
 # Ania, „cicha bohaterka” głośnej rozprawy o przekazanie tabletek aborcyjnych, opowiada swoją historię

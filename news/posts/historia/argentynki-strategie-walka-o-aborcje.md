@@ -11,9 +11,11 @@ tags:
   - Aborcja farmakologiczna
 
 postImage: yes
-postImagePath: /news/assets/images/argentynki.webp
+postImagePath: /news/assets/images/argentynki-2.webp
 postImageHeight: 50%
-postImageSource: no
+postImageSource: yes
+postImageSourceUrl: https://commons.wikimedia.org/w/index.php?curid=141245317
+postImageSourceText: Milagromilagra CC BY-SA 4.0
 ---
 
 

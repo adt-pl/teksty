@@ -1,7 +1,6 @@
 ---
 title: Do pobrania
 description: Grafiki, plakaty i wlepy o aborcji, a także feministyczne ziny o antykoncepcji i przerywaniu ciąży do pobrania.
-icon: material/file-download
 
 hide:
   - navigation

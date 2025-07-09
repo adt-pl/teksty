@@ -15,7 +15,9 @@ postImagePath: /news/assets/images/manifest-343.jpg
 postImageHeight: 50%
 postImageAlt: >-
   Pierwsza strona francuskiego manifestu 343 kobiet.
-postImageSource: no
+postImageSource: yes
+postImageSourceText: Le Manifeste des 343 / Le Nouvel Observateur
+
 ---
 
 # Rocznica francuskiego „Manifestu 343″ - historia aborcji { id="francja-manifest-343" }

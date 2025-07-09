@@ -18,7 +18,10 @@ postImage: yes
 postImagePath: /news/assets/images/izabela-leszczyna-MZ.webp
 postImageAlt: >-
    Portret Ministry Zdrowia Izabeli Leszczyny.
-postImageSource: no
+postImageSource: yes
+postImageSourceUrl: https://commons.wikimedia.org/w/index.php?curid=142662498
+postImageSourceText: Gov.pl CC BY 3.0 pl
+
 ---
 
 # Nowe Ministerstwo zdrowia – nowe prawo aborcyjne?

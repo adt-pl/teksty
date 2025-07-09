@@ -18,7 +18,7 @@ postImage: yes
 postImagePath: /news/assets/images/urge-2016.jpg
 postImageTitle: Pro-aborcyjna demonstracja na kampusie w Stanach Zjednoczonych.
 postImageSource: yes
-postImageSourceText: Wydarzenie URGE z 2016 roku
+postImageSourceText: Wydarzenie URGE z 2016 roku / fot. URGE
 postImageSourceUrl: https://rewirenewsgroup.com/2016/04/08/college-students-call-abortion-positivity/
 ---
 

@@ -29,8 +29,6 @@ Na tej stronie staramy się krótko podsumować czym jest i czym objawia się ab
     Możesz od razu przeskoczyć do naszego tekstu o [przeciwdziałaniu stygmatyzacji i normalizacji aborcji](./normalizowanie.md)
 
 ## Jak stygmatyzuje się aborcję? { id="jak-sie-objawia" }
- 
-<!-- 2222: rozwińmy w przystępny sposób co to jest stygmatyzacja -->
 
 Stygmatyzacja oznacza życie w społeczeństwie, które ciągle mówi o aborcji, ale nigdy nie daje nam przestrzeni, byśmy mówiły o swoim własnym aborcyjnym doświadczeniu.
 

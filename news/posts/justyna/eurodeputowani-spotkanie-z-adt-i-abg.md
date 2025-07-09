@@ -17,7 +17,8 @@ postImageTitle: >-
   Eurodeputowai spotykają się z działaczkami Aborcyjnego Dream Teamu i Aborcji Bez Granic, by porozmawiać o łamaniu praw kobiet.
 postImageAlt: Fred Matić - przewodniczący misji do Polski w sprawie łamania praw kobiet.
 postImageSource: yes
-postImageSourceText: Fred Matić
+postImageSourceText: Fred Matić / fot. Philippe Buissin © European Union 
+postImageSourceUrl: https://www.flickr.com/people/european_parliament/
 ---
 
 # Eurodeputowani i sprawa aborcji - spotkanie z ADT i ABG { id="eurodeputowani-i-sprawa-aborcji-spotkanie-z-adt-i-abg" }

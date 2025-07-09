@@ -19,7 +19,8 @@ postImageHeight: 35%
 postImageTitle: Aborcyjny Dream Team oraz komitet ustawodawczy Legalna Aborcja Bez Kompromisów
 postImageAlt: >-
   Natalia Broniarczyk udziela wywiadu mediom na konferencji komitetu Legakn Aborcja. Obok niej posłanka lewicy Katarzyna Kotula i aktywistka Karolina Więckiewicz.
-postImageSource: no
+postImageSource: yes
+postImageSourceText: Lewica
 ---
 
 # Legalna aborcja bez kompromisów – dołączyłyśmy do komitetu obywatelskiego { id="legalna-aborcja-bez-kompromisow" }
@@ -166,5 +167,6 @@ Politycy i polityczki:
 
 Jako ADT nasze zaangażowanie w Komitet wynika z chęci, by aborcja w profesjonalny i rzeczowy sposób była debatowana w maplamencie, oraz by realne doświadczenia z aborcją zostały przez parlament wysłuchane.
 
+*Zdjęcia @ Lewica 2021*
 
 [^1]: "Doświadczenia aborcyjne Polek" [CBOS 2013](https://www.cbos.pl/SPISKOM.POL/2013/K_060_13.PDF) <small>[kopia archiwalna](../../../do-pobrania/info/cbos-maj-2013-doswiadczenie-aborcyjne-polek.pdf)</small>

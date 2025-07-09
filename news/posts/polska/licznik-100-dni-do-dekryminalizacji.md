@@ -20,7 +20,10 @@ postImage: yes
 postImagePath: /news/assets/images/tusk-i-duda.webp
 postImageAlt: >-
   Donald Tusk otrzymujący od Andrzeja Dudy nominację na premiera.
-postImageSource: no
+postImageSource: yes
+postImageSourceUrl: https://www.gov.pl/web/primeminister/prime-minister-donald-tusk-15-october-will-become-a-symbolic-date-in-poland
+postImageSourceText: Donald Tusk i Andrzej Duda / Gov.pl CC BY 3.0 PL
+
 ---
 
 # Odliczamy dni do dekryminalizacji aborcji

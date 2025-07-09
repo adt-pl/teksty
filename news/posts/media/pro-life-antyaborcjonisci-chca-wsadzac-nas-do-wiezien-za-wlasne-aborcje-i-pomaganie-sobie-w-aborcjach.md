@@ -7,11 +7,15 @@ tags:
   - Prawo
 
 postImage: yes
-postImagePath: /news/assets/images/fundacja-pro-prawo-do-zycia.jpg
+postImagePath: /news/assets/images/fundacja-pro-prawo-do-zycia.webp
 postImageHeight: 100%
 postImageTitle: Fundacja Pro chce wsadzać kobiety do więzienia.
 postImageAlt: Pikieta działaczy Fundacji Pro Prawo do życia.
-postImageSource: no
+postImageSource: yes
+postImageSourceUrl: https://creativecommons.org/licenses/by-sa/4.0
+postImageSourceText: MOs810 / Wikimedia Commons CC BY-SA 4.0
+
+
 ---
 
 # Pro-life? Antyaborcjoniści chcą wsadzać nas do więzień za własne aborcje i pomaganie sobie w aborcjach { id="antyaborcjonisci-chca-karac-nas-za-wlasne-aborcje-i-za-pomoc}

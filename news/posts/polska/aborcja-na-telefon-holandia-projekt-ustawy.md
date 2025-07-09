@@ -8,11 +8,14 @@ tags:
   - Aborcja za granicą
   - Prawo
 postImage: yes
-postImagePath: /news/assets/images/corinne-ellemeet-holadnia-tabletki-na-telefon.jpg
+postImagePath: /news/assets/images/corinne-ellemeet-holadnia-tabletki-na-telefon.webp
 postImageHeight: 20%
 postImageTitle: Tabletki aborcyjne z Holandii
 postImageAlt: Corinne Ellemeet przemawia w Holendersim parlamencie.
-postImageSource: no
+postImageSource: yes
+postImageSourceText: GroenLinks CC BY-SA 4.0
+postImageSourceUrl: https://commons.wikimedia.org/w/index.php?curid=126596006
+
 ---
 
 # Aborcja dla Polek przez telekonsultacje: propozycja holenderskiej Zielonej Lewicy { id="aborcja-dla-polek-przez-telekonsultacje-propozycja-holenderskiej-zielonej-lewicy" }

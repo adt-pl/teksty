@@ -48,8 +48,6 @@ Wrzesień 2021 - Izabela z Pszczyny
 
 37-letnia Agnieszka z Częstochowy przez tydzień nosiła w macicy martwy płód. Lekarze czekali, bo była szansa, aby "uratować drugie dziecko". Agnieszka zmarła, osierociła trójkę dzieci. Do dzisiaj nie wiadomo, czy to nieprzerwana ciąża spowodowała śmierć Agnieszki, jednak sekcja zwłok tego nie wykluczyła. O bezczynność oskarża lekarzy rodzina zmarłej.
 
-<!-- 2222: Ten tekst (niestety) wymaga aktualizacji. -->
-
 ## Czy polskie prawo antyaborcyjne to fikcja? { id="czy-polskie-prawo-aborcyjne-to-fikcja" }
 
 I tak, i nie. Z jednej strony aborcja dzieje się całkowicie poza systemem, a z drugiej strony jedna z działaczek Aborcji Bez Granic - Justyna Wydrzyńska - stoi przed sądem za pomoc w aborcji i grozi jej kara 3 lat więzienia.

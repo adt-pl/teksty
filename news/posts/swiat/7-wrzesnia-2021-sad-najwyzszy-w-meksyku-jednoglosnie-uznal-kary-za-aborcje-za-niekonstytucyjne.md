@@ -11,10 +11,9 @@ tags:
 postImage: yes
 postImagePath: /news/assets/images/meksyk.jpg
 postImageHeight: 70%
-postImageTitle: Meksyk przestaje karać za aborcję.
 postImageAlt: Kobiety niosące baner rządający dostępu do legalnej i bezpiecznej aborcji w całym Meksyku.
 postImageSource: yes
-postImageSourceText: Demonstracja w Meksyku (2018)
+postImageSourceText: Demonstracje w Meksyku (2018)
 postImageSourceUrl: https://theconversation.com/is-the-future-of-abortion-online-110339
 ---
 

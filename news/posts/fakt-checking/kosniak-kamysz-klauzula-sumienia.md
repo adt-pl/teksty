@@ -13,7 +13,9 @@ postImageHeight: 10%
 postImageAlt: >- 
   Władysław Kosiniak Kamysz na tle ścianki z logiem PSL.
 postImageSource: yes
-postImageSourceText: fot. Wojtek Jargiło / PAP
+postImageSourceText: fot. Radosław Czarnecki CC BY-SA 4.0 
+postImageSourceUrl: https://commons.wikimedia.org/w/index.php?curid=72848314
+
 ---
 
 # Kosiniak-Kamysz: Nie zrzucajmy winy na lekarza, bo on ma prawo odmówić? - Czy to co mówi ma sens? 

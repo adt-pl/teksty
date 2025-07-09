@@ -13,8 +13,9 @@ postImageTitle: Kaja Godek na antyaborcyjneji demonstracji Fundacji Życie i Rod
 postImageAlt: >-
   Kaja Godek stoi przed banerem "Szczepionki na covid-19 korzystają ze zbrodni aborcji".
 postImageSource: yes
-postImageSourceText: fot. Paweł Wodzyński / East News
-postImageSourceUrl: https://www.eastnews.pl/en/portfolio/pawel-wodzynski
+postImageSourceText: fot. Tomasz Molina CC BY-SA 4.0
+postImageSourceUrl: https://commons.wikimedia.org/w/index.php?curid=109950973
+
 ---
 
 # Zakaz informowania o aborcji? Odpowiedź dla Kai Godek { id="zakaz-informowania-o-aborcji" }

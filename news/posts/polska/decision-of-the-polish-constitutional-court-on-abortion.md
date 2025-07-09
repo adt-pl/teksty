@@ -14,7 +14,9 @@ postImageTitle: Decision of the Polish Constitutional Court on abortion - aborti
 postImageAlt: >-
   Drone view - Tens of thousands of people protest in the streets of Warsaw at night against the court verdict.
 postImageSource: yes 
-postImageSourceText: fot. Sławomir Kamiński / Agencja Gazeta
+postImageSourceText: fot. Can Ayaz CC BY-SA 2.0
+postImageSourceUrl: https://www.flickr.com/photos/191467006@N08/50719379492
+
 ---
 
 # Decision of the Polish Constitutional Court on abortion { id="decision-of-the-polish-constitutional-court-on-abortion" }

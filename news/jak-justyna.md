@@ -60,13 +60,18 @@ postImageSource: no
 
     **Wyrok pierwszej instancji**
 
-    * Na rozprawie 14 marca 2023 Justyna złożyła ostatnie wyjaśnienia i wygłosiła mowę końcową. Sędzina najprawdopodobniej miała przygotowany wyrok od rana, gdyż ogłoszenie wyroku zarządziła na niecałą godzinę po ostatnich słowach obrony.
-    * Justyna usłyszała wyrok skazujący. Została co prawda uniewinniona z zarzutu nielegalnym obrotem lekami, jednak *za pomoc innej kobiecie* usłyszła 8 miesięcy ograniczenia wolności w postaci prac społecznych. Wyrok nie jest prawomocny. 
-    * Tego samego dnia sędzina Agnieszka Brygidyr-Dorosz otrzymuje awans od ministra Zbigniewa Ziobry.
-    * Justyna czeka na uzasadnienie wyroku, by móc się od niego odwołać.
-    * Justyna odwołała się od wyroku. Czeka na ustalenie terminu.
+    1. Na rozprawie 14 marca 2023 Justyna złożyła ostatnie wyjaśnienia i wygłosiła mowę końcową. Sędzina najprawdopodobniej miała przygotowany wyrok od rana, gdyż ogłoszenie wyroku zarządziła na niecałą godzinę po ostatnich słowach obrony.
+    2. Justyna usłyszała wyrok skazujący. Została co prawda uniewinniona z zarzutu nielegalnym obrotem lekami, jednak *za pomoc innej kobiecie* usłyszła 8 miesięcy ograniczenia wolności w postaci prac społecznych. Wyrok nie jest prawomocny. 
+    3. Tego samego dnia sędzina Agnieszka Brygidyr-Dorosz otrzymuje awans od ministra Zbigniewa Ziobry.
+    4. Justyna czeka na uzasadnienie wyroku, by móc się od niego odwołać.
+    5. Justyna odwołała się od wyroku. 
 
-    [:octicons-arrow-down-16:{ .middle } Więcej szczegółów o rozprawie Justyny przeczytasz poniżej](#chronologiczny-spis-wydarzeń)    
+    **Apelacja**
+
+    1. Sąd zignorował wniosek prawników Justyny, by do rozprawy apelacyjnej nie powoływać neo-sędziów (sędziów powołanych przez upolityczniony TK i nominatów Ziobry).
+    2. Justyna napisała oświadczenie w którym odmawia brania udziału w kolejnym upolitycznionym anty-kobiecym spektaklu.
+
+    [:octicons-arrow-down-16:{ .middle } Więcej szczegółów o rozprawie Justyny przeczytasz poniżej](#chronologiczny-spis-wydarzen)  
 
 </div>
 
@@ -137,6 +142,15 @@ Jeśli chcesz zapoznać się z przekazem medialnym o sprawie Justyny, zebrałyś
 
 ??? quote ":fontawesome-regular-newspaper: Polskie media o sprawie"
 
+    **grudzień 2024**
+
+    * <small>03.12.2024</small> - *Justyna Wydrzyńska, skazana za pomoc w aborcji, nie przyjdzie na rozprawę apelacyjną. "Antykobiecy spektakl"* [wyborcza.pl](https://wyborcza.pl/7,75398,31514762,justyna-wydrzynska-skazana-za-pomoc-w-aborcji-nie-przyjdzie.html)
+
+    **styczeń 2024**
+
+    * <small>04.01.2024</small> - *Wydrzyńska: nadal mówię, że aborcja jest ok* [tvn24.pl](https://tvn24.pl/go/archiwalne,38/wybory-kobiet-odcinki,1172124/odcinek-16,S00E16,1251613)
+
+
     **wrzesień 2023**
 
     *  <small>6.09.2023</small> - *Państwo PiS. Wysoki awans dla neo-sędzi, która skazała aktywistkę Justynę Wydrzyńską* [oko.press](https://oko.press/wysoki-awans-dla-neo-sedzi-ktora-skazala-wydrzynska)
@@ -171,7 +185,6 @@ Jeśli chcesz zapoznać się z przekazem medialnym o sprawie Justyny, zebrałyś
     * <small>17.12.2022</small> - *"Lepsza twarz Polski". Nagrody dla Aborcyjnego Dream Teamu, Waldemara Żurka i Hanny Machińskiej* - [oko.press](https://oko.press/nagroda-im-prof-holdy-2022)
 
     **listopad 2022**
-
 
 
     **październik 2022**
@@ -247,6 +260,14 @@ Jeśli chcesz zapoznać się z przekazem medialnym o sprawie Justyny, zebrałyś
 ## Chronologiczny spis wydarzeń { id="chronologiczny-spis-wydarzen" }
 
 Pomiędzy relacjami z poszczególnych rozpraw publikujemy wydarzenia związane z Justyną Wydrzyńską jak i kolejne międzynarodowe rządania uchylenia zarzutów przeciwko niej. Materiał jest aktualizowany na bierząco.
+
+### Justyna odmawia wzięcia udziału w kolejnym upolitycznionym spektaklu <small>3 grudnia 2023</small> { id="oswiadczenie-rozprawa-apelacyjna" }
+
+Justyna nie przyjdzie na apelację o ile nie zostanie wybrany niezależny sędzia.
+
+> Czekałam na rozprawę apelacyjną 19 miesięcy, ale 5 grudnia nie pojawię się w sądzie. Miałyśmy mieć powrót do normalności, ale mimo zmiany rządów, dzisiaj dalej sądzić mieliby mnie sędziowie, powołani przez polityków, którzy w od 2016 roku usilnie próbowali zdelegalizować aborcję. Czekając na wyznaczenie nowego sędziego, nie zamierzam brać udziału w tym anty-kobiecym upolitycznionym spektaklu.
+
+Przeczytaj [całe oświadczenie Justyny tutaj](./posts/justyna/oswiadczenie-justyny-wydrzynskiej-rozprawa-apelacyjna.md)
 
 ### Nominacja do nagrody Parlamentu Europejskiego "Za wolność myśli" im. Sacharowa 2023 <small>19 września 2023</small> { id="nominajca-nagroda-sacharowa" }
 

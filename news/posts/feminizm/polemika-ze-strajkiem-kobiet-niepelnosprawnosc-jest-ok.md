@@ -15,8 +15,8 @@ postImageTitle: Rodzienie dzieci z niepełnosprawnością jest normalną decyzj�
 postImageAlt: >-
   Ilustracja wiklinowej kołyski. Kołyska jest rozerwana od spodu, a jej wnętrze jest zaciemnione. Fioletowe yło posiada wyraźną fakturę szorstkiej ściany.
 postImageSource: yes
-postImageSourceText: ilu. jezebel.com / Codziennik Feministyczny
-postImageSourceUrl: https://codziennikfeministyczny.pl/wybor-nie-tylko-aborcja-wybor-takze-porod/
+postImageSourceText: ilu. Jim Cooke / jezebel.com
+postImageSourceUrl: https://www.jimcookeart.com/interview-with-a-woman-who-recently-had-an-abortion-at-32-weeks
 ---
 
 # Rodzenie dzieci z niepełnosprawnością też jest ok - polemika ze Strajkiem Kobiet! { id="aborcja-czy-porod-polemika-ze-strajkiem-kobiet" }

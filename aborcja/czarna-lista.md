@@ -69,7 +69,7 @@ Nie wszyscy handlarze postępują uczciwie, a część z nich to zwykli [naciąg
 
 ## Czarna lista { id="lista" }
 
-!!! info "Ostatnia aktualizacja: 23.07.2023"
+!!! info "Ostatnia aktualizacja: 5.06.2025"
 
 Przeciwnicy aborcji i oszuści co chwilę wymyślają coś nowego. Chociaż staramy się uzupełniać tę listę na bieżąco, to traktuj ją przede wszystkim jako przestrogę i jeśli masz wątpliwości zasięgnij [poradnika](../news/posts/czarna-lista/poradnik.md) lub po prostu [napisz do nas](../kontakt/index.md).
 
@@ -180,6 +180,14 @@ Innym rodzajem zagrożenia są nieuczciwi handlarze. Decyzja skąd zamawiasz tab
     ---
 
     Zdarza się, że na internetowych forach handlarze reklamują się poprzez numery telefonu, pod którymi można zamówić tabletki. Niestety, po takiej formie zamówienia nie pozostaje żaden ślad i jeszcze trudniej o pewność, że otrzymasz właściwe leki.
+
+-   ##### Fałszywe profile na Instagramie i Facebooku { id="falszywe-profile-ig-fb" }
+
+    ---
+
+    Oszuści zakładają też profile na mediach społecznościowych próbując pozorować na organizacje pomocowe i kliniki. Przykładowym scamem (naciąganiem) jest profil:
+
+    * womencarepolska_
 
 -   ##### Nieistniejące już strony oszustów { id="archiwum-oszustow" }
 

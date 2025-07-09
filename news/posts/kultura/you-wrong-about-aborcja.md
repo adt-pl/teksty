@@ -7,12 +7,12 @@ tags:
   - Aborcja
 
 postImage: yes
-postImagePath: /news/assets/images/you-wrong-about-sarah-marshall.jpg
+postImagePath: /news/assets/images/you-wrong-about-sarah-marshall.webp
 postImageHeight: 10%
 postImageTitle: Amerykański podcast o aborcji - You're Wrong About Sary Marshall.
 postImageAlt: Sara Marshall nagrywająca odcienek podcastu You're Wrong About.
 postImageSource: yes
-postImageSourceText: Sarah Marshall / You're Wrong About
+postImageSourceText: Sarah Marshall / Yourewrongabout.com
 postImageSourceUrl: https://open.spotify.com/episode/09lwbBcR2Wgfqpx1wXsvU8
 ---
 

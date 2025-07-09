@@ -21,7 +21,8 @@ postImageHeight: 20%
 postImageTitle: Aborcyjny Dream Team w sejmie - przemówienie Natalii Broniarczyk.
 postImageAlt: >-
   Natalia Broniarczyk przemawia z mównicy sejmowej trzymając zestaw tabletek aborcyjnych podniesiony wysoko nad głową.
-postImageSource: no
+postImageSource: yes
+postImageSourceText: Natalia Broniarczyk / Sejm
 ---
 
 # Działaczka Aborcyjnego Dream Teamu z mównicy sejmowej tłumaczy, jak zrobić aborcję w domu { id="dzialaczka-adt-z-mownicy-sejmowej-tlumaczy-jak-zrobic-aborcje-w-domu" }

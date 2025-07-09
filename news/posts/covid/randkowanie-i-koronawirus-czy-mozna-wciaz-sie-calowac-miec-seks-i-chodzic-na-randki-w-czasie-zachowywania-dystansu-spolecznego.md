@@ -13,7 +13,7 @@ postImagePath: /news/assets/images/randkowanie-a-koronawirus.webp
 postImageTitle: Randkowanie i koronawirus
 postImageAlt: Tekst Teen Vogue o społecznym dystansie.
 postImageSource: yes
-postImageSourceText: Teen Vogue
+postImageSourceText: Amelia Giller / Teen Vogue
 postImageSourceUrl: https://www.teenvogue.com/story/dating-and-coronavirus
 
 ---

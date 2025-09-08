@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2024-12-12
 title: Muszę poukładać sobie życie na nowo
 description: Mija 5 miesiąc i niestety nie ma dnia żebym tej decyzji nie żałowała.
-
+date: 2024-12-12
 autorka: Ania
 wiek: 36
 ---
@@ -16,7 +13,7 @@ Moja historia jest podobna do wielu z Was. Poukładane życie, dwoje odchowanych
 <!-- more -->
 
 W tamtym czasie zaliczyliśmy z mężem kilka imprez ze sporą ilością alkoholu i używek - spanikowałam! Tak bardzo spanikowałam, że mogłam nieświadomie zaszkodzić tej istocie :( 
-  
+
 Zamówiłam tabletki, sam proces aborcji przebiegł bezproblemowo, ból zbliżony do menstruacyjnego, krwawienie nieco mocniejsze. 
 
 Mija 5 miesiąc i niestety nie ma dnia żebym tej decyzji nie żałowała, ból duszy jest nieporównywalny z tym fizycznym, teraz wiem że stres i emocje nie są dobrym doradcą, niestety czasu nie cofnę i muszę poukładać sobie życie na nowo.

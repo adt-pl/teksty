@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-01-23
 title: Nadzieja mnie nie opuszczała, choć mąż jej już nie miał
 description: Robię test Nifty, jeszcze przed przysługującymi Tobie bezpłatnymi badaniami prenatalnymi. Pierwsza próbka krwi uległa hemolizie, zatem oddaję kolejną próbkę krwi, oczekiwanie na wynik się wydłuża. Już zdążyłam oddać próbkę krwi do przeprowadzenia testu Pappa. Niepokój trwa, myślisz, jeszcze jest nadzieja, dlaczego nie.
-
+date: 2025-01-23
 autorka: A
 wiek: 44
 ---

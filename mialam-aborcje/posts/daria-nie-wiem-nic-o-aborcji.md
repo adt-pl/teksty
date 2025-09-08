@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-07-06
 title: Nie wiem nic o aborcji, a jeszcze mniej o wychowaniu dzieci
 description: Lato 2013 r. Za kilka miesięcy będę świętować 18. urodziny. Czekam na wyniki matur i planuję zawodową przyszłość. Nie mam powodów do zmartwień, a jednak - spóźniający się okres i pierwsze myśli o ciąży paraliżują mnie. 
-
+date: 2025-07-06
 autorka: Daria
 wiek: 29
 ---

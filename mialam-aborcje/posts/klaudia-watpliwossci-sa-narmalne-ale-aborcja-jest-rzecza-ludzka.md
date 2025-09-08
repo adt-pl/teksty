@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-04-19
 title: Jeżeli masz wątpliwość to normalne, zrobisz jak uważasz ale jestem zdania że aborcja jest rzeczą ludzką
 description: Zacznę może najpierw tak, cieszę się że udało mi się usunąć ciążę (wiem że dla niektórych to dość mocne słowa). Miałam już jedno dziecko w tamtym momencie 8-miesięczne, bardzo słabo prosperował mój biznes i wieczne kłótnie z partnerem.
-
+date: 2025-04-19
 autorka: Klaudia
 wiek: 25
 ---

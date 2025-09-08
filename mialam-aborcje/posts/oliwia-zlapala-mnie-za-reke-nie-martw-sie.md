@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-05-10
 title: Jedynie złapała mnie mocno za rękę i powiedziała „nie martw się, będzie dobrze”
 description: Zawsze chciałam być mamą i wiem, że w przyszłości będę. Problemy zaczęły się gdy mój partner pierwszy raz podniósł na mnie rękę. Przekonala mnie rozmowa z moją mamą - w wieku 17 lat miała aborcje. Nigdy wcześniej mi o tym nie mówiła. Zrozumiałam, że nie jestem z tym sama. 
-
+date: 2025-05-10
 autorka: Oliwia
 wiek: 18
 ---

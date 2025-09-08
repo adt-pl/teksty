@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-04-08
 title: Po zastanawianiu się przeczytaniu waszych wszystkich historii zamówiłam tabletki
 description: Mam 20 lat jestem młoda i nie spodziewałam się tej ciąży, tak samo jak mój chłopak. Już przeczułam że to się stało jak spóźniał mi się okres, zrobiłam test no i wynik pozytywny. Strasznie się przestraszyłam i moja pierwsza myśl to wyjechanie za granicę i zrobienie aborcji. 
-
+date: 2025-04-08
 autorka: Natalia 
 wiek: 20
 ---

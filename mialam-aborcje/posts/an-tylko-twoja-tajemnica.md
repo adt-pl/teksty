@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-07-04
 title: Nikt nie może coś do niczego zmusić... a jak trzeba to niech to będzie tylko twoją tajemnicą
 description: Otóż mam już dwoje dzieci, trzecia ciąża było jak coś na co był zły moment w moim życiu. nigdy nie myślałam że mnie to spotka, lecz życie pisze swoje scenariusze... co do przebiegu aborcji trochę się bałam, trochę nie...
-
+date: 2025-07-04
 autorka: An
 wiek: 33
 ---

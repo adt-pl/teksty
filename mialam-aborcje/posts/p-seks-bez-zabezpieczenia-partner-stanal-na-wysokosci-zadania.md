@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-07-03
 title: Partner, mimo krótkiego stażu znajomości, stanął na wysokości zadania
 description: Znaliśmy się niecały miesiąc, seks bez zabezpieczenia uprawialiśmy raz po niedużej ilości alkoholu, bez wytrysku. No ale stało się. Zaczęłam się czuć źle fizycznie, miesiączka spóźniała się 2 tygodnie, zrobiłam test, który dosłownie po kilku sekundach już pokazał pozytywny wynik.
-
+date: 2025-07-03
 autorka: P
 wiek: 26
 ---

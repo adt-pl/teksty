@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-01-24
 title: Poczułam że coś ze mnie wypada (to w ogóle nie bolało)
 description: Widziałam na własne oczy płód który wypadł, miał widoczny zarys ciała (główka nóżki, rączki) było wielkości mandarynki), na szczęście mną żadne emocje i łzy nie kierowały byłam nastawiona że tak musi być.
-
+date: 2025-01-24
 autorka: Ewelina
 wiek: 32
 ---
@@ -15,7 +12,6 @@ Zacznę od tego, że przez długi czas nie spodziewałam się, że jestem w cią
 
 <!-- more -->
 
- 
 Docelowo do aborcji doszło w momencie gdy ciąża miała 14 tydzień, byłam zestresowana, bałam się bólu i tego, że może się nie udać.
 
 Wzięłam mifeprostione po około 36h dwie tabletki pod policzek misoprostolu i nic się nie działo, po 3h kolejna dawka i wtedy już po 30 minutach zaczął się ból brzucha, ale nie mocno intensywny. Ja zażyłam ibuprofen, niestety odrazu go zwymiotowałam, gdy po 3h zażyłam kolejną dawkę musiałam przerywać ze względu na uciążliwe wymioty, wtedy też pojawił się silniejszy ból brzucha, lekko sączący śluz ale zero krwi, siedząc na toalecie z miską w ręce bo wymioty nie ustępowały poczułam że coś ze mnie wypada (to w ogóle nie bolało) był to płód, bo widziałam wiszącą pępowinę. Po 10 minutach wydalone zostało łożysko i dopiero wtedy pojawiło się trochę krwi. 

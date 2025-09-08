@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-05-01
 title: Nawet jak boli, to jest warte zdrowej psychiki 
 description: Podczas tego nie całego tygodnia  i tak odświeżałam pocztę co godzinę, czy przypadkiem nie ma jakiegoś powiadomienia i czytałam historie innych kobiet opisane tutaj, uspokajało mnie to. 
-
+date: 2025-05-01
 autorka: Maria
 wiek: 21
 ---

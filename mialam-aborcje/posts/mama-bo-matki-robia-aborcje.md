@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-01-24
 title: Jak widać, matki robią aborcję
 description: Tak, wiem co to antykoncepcja. Usunęłam, bo z partnerem nie byliśmy gotowi na kolejne dziecko, po prostu nie był to dla nas dobry czas uczuciowo i finansowo... Wiedzieliśmy, że nie podołamy.
-
+date: 2025-01-24
 autorka: Mama
 wiek: 26
 ---

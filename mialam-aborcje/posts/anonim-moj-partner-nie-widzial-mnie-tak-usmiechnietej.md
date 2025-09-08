@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-01-05
 title: Mój partner doszedł do wniosku, że od kilku tygodni nie widział mnie tak uśmiechniętej jak dzisiaj
 description: Rozmawialiśmy parę razy, o wszelkich możliwych rozwiązaniach. Byłam na 100% pewna że chce dokonać aborcji, jednak presja społeczna i fakt że mam już troje dzieci sprawiły, że zaczęłam mieć wątpliwości.
-
+date: 2025-01-05
 autorka: Anonim
 wiek: 30
 ---

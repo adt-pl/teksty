@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-05-29
 title: Wiedziałam od razu, że poronię
 description: To wasze posty, forum itp. pomogły mi się przygotować na to co nadejdzie. Od lekarzy nie dostałam żadnej informacji, wsparcia, współczucia, ani grama empatii.
-
+date: 2025-05-29
 autorka: Karolina
 wiek: 29
 ---

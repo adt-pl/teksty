@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-01-25
 title: Trudno mi teraz o tym napisac
 description: Chciałam bardzo podziękować ADT za to że powstała ta strona, gdzie znalazłam fachową, kompleksową wiedzę o całym procesie.
-
+date: 2025-01-25
 autorka: Gosia
 wiek: 40
 ---

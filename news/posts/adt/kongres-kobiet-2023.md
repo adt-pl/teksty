@@ -5,6 +5,7 @@ categories:
 tags:
   - Justyna Wydrzyńska
   - Aborcyjny Dream Team
+  - Kongres Kobiet
 ---
 
 # Aborcyjny Dream Team na Kongresie Kobiet

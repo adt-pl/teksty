@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-03-16
 title: Po drugim porodzie zdiagnozowano u mnie depresję poporodową
 description: Depresja poporodowa ciągnęła się ze mną dopóki młodsze dziecko nie ukończyło 3 lat. Nie wrócę nigdy w ten stan. I choć słyszę od wielu ludzi że jestem stworzona do bycia mamą, to chce nią być na własnych zasadach
-
+date: 2025-03-16
 autorka: Anna
 wiek: 31
 ---

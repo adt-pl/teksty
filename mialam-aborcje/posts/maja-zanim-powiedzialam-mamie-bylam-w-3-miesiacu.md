@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-05-26
 title: Zanim powiedziałam mamie byłam już w połowie 3 miesiąca.
 description: Okropnie się bałam, zupełnie bez sensu. Moja mama coś podejrzewała, żałowałam, że sama nie rozpoczęła tej rozmowy trochę wcześniej.
-
+date: 2025-05-26
 autorka: Maja
 wiek: 44
 ---

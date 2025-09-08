@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-01-12
 title: Przede wszystkim psychiczne jest mi lżej
 description: Zaczynam nowy rok z nadzieją na lepsze życie i wiem, że kiedy będzie odpowiedni moment i sama do tego dojrzeje zostanę mamą. 
-
+date: 2025-01-12
 autorka: Aria
 wiek: 25
 ---

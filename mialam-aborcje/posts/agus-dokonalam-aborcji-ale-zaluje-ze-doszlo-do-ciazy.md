@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-02-28
 title: Dokonałam aborcji ale po czasie żałuję że wgl doszło do ciąży.
 description: To była wpadka totalnie. Byłam wtedy z chłopakiem pół roku seks zaczęliśmy uprawiać 2 miesiące wcześniej i nagle wpadka. Byłam załamana bo mój chłopak ma już 2 swoich dzieci z poprzedniego związku. Gdy tylko zrobiłam test i wyszedł pozytywny potwierdziłam u ginekologa, że to ciąża. Bałam się powiedzieć partnerowi o tym.
-
+date: 2025-02-28
 autorka: Aguś
 wiek: 22
 ---

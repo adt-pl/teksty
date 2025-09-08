@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-01-05
 title: Laura Makowska
 description: Swoje przeżycia opisałam w książce
-
+date: 2025-01-05
 autorka: Laura Makowska 
 wiek: 37
 ---

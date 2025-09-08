@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-06-04
 title: Dziecko od długiego czasu było naszym marzeniem
 description: Kiedy w końcu udało mi się zajść w ciążę, przepełniała nas ogromna radość. Niestety nie trwała ona długo... Na pierwszych badaniach prenatalnych dowiedzieliśmy się, że dziecko najprawdopodobniej jest obciążone wadą genetyczną, konkretnie Zespołem Downa.
-
+date: 2025-06-04
 autorka: Marta
 wiek: 27
 ---

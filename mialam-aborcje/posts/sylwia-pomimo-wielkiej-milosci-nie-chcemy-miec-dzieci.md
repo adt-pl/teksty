@@ -1,10 +1,7 @@
 ---
-social:
-  cards_layout: story
-date: 2025-01-08
 title: Pomimo wielkiej miłości do siebie nie chcemy mieć dzieci
 description: Spóźniał mi się okres 2tyg. Byłam 3 miesiac po odstawieniu tabletek anty (stwierdziłam, że zrobię sobie małą przerwę) poza tym moje okresy były zazwyczaj nieregularne, miałam PCOSa i 32lata więc szanse na dziecko nie były jakieś wygórowane. 
-
+date: 2025-01-08
 autorka: Sylwia
 wiek: 32
 ---
@@ -14,7 +11,6 @@ wiek: 32
 Spóźniał mi się okres 2tyg. Byłam 3 miesiac po odstawieniu tabletek anty (stwierdziłam, że zrobię sobie małą przerwę) poza tym moje okresy były zazwyczaj nieregularne, miałam PCOSa i 32lata więc szanse na dziecko nie były jakieś wygórowane. Niestety okazało się, że test pokazał 2 kreski, kolejny również. 
 
 <!-- more -->
-
 
 Z partnerem podjęliśmy decyzję o aborcji. Ani ja ani on pomimo wielkiej miłości do siebie nie chcemy mieć dzieci. Ani dziś ani jutro ani nigdy. 
 
